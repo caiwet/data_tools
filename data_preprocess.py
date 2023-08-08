@@ -31,7 +31,12 @@ def convert_dcm(image_paths, output_path = 'MAIDA/data', PNG = False):
             print('{} image converted'.format(n))
 
 def downsize_one_image(image_path, resized_dim):
-    image = Image.open(image_path).convert("RGB")
+    # breakpoint()
+    image = Image.open(image_path)
+    img = np.array(image)
+    if img.max() > 255:
+        img = (img/256).astype('uint8')
+    image = Image.fromarray(img).convert("RGB")
     w, h = image.size
 
     # crop
@@ -285,11 +290,11 @@ def make4classes(file='/home/ec2-user/segmenter/MAIDA/data1000/train_annotations
             prev['category_id'] = 3049
     with open(outfile, 'w') as f:
         json.dump(data, f)
-        
+
 def train_val_test_split(root='/home/ec2-user/segmenter/MAIDA/data1000/downsized',
                          image_dir='images', label_dir='labels', target_dir='downsized/split'):
     src = os.path.join(root, image_dir)
-    
+
     for file in os.listdir(src):
         name = file[:-4]
         if name in list(train_info['imageID']):
@@ -311,7 +316,7 @@ def train_val_test_split(root='/home/ec2-user/segmenter/MAIDA/data1000/downsized
             shutil.copy(os.path.join(src, file), os.path.join(root, target_dir, label_dir, "test"))
         else:
             print(name)
-            
+
 def get_test_anno(anno_file='/home/ec2-user/segmenter/MAIDA/data1000/annotations_downsized1105.json',
                   out_file='/home/ec2-user/segmenter/MAIDA/data1000/annotations1105.json',
                   split_info='/home/ec2-user/segmenter/ETT_Evaluation/data_split/train_mimic_only.csv',
@@ -343,7 +348,7 @@ def get_test_anno(anno_file='/home/ec2-user/segmenter/MAIDA/data1000/annotations
 
     with open(out_file, 'w') as f:
         json.dump(test_coco, f)
-        
+
 def move_ranzcr_images(src_dir='/home/ec2-user/efs/RANZCR/data',
                 csv_file='/home/ec2-user/segmenter/ETT_Evaluation/data_split/all_data_split.csv',
                 output_dir='/home/ec2-user/segmenter/ETTDATA/Test/RANZCR', split='test', source='RANZCR'):
