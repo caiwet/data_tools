@@ -1,0 +1,908 @@
+image,pixel_spacing_x,pixel_spacing_y,image_source,have_metadata,original_width,original_height,image_id
+random-id-4c70998f-e9c6-4476-9183-abc44570d8dd,0.139,0.139,NYU Langone Health,True,3032,2520,generated_id_4e074085
+random-id-3f497cf9-9be8-44b4-ba75-080dc7690c25,0.15,0.15,NYU Langone Health,True,2312,2836,generated_id_4e074085
+random-id-52e58929-144c-4fb5-a416-4f80ee40828b,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-65b277b7-1a04-48c9-80d2-2694a21ef59a,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-453bdf33-feb4-443d-aabb-1e33c7ce360b,0.148,0.148,NYU Langone Health,True,2350,2782,generated_id_d4735e3a
+random-id-bd959475-ef37-46cb-8c33-7888003fbbdf,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4e074085
+random-id-b82d18c8-d666-43ef-bc9d-cc8d14c9831e,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-a1e70577-92d8-4eb6-ad21-6147e6fe9f63,0.139,0.139,NYU Langone Health,True,2544,3056,generated_id_4e074085
+random-id-de15aeb5-972a-4493-b3aa-b2050f96fa61,0.139,0.139,NYU Langone Health,True,3028,2517,generated_id_6b86b273
+random-id-d8fa9d1e-5ef6-4b4f-9080-542b18097d63,0.148,0.148,NYU Langone Health,True,2350,2866,generated_id_d4735e3a
+random-id-9babb24e-7e9d-4dd3-b5bb-6f258fb83f78,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-b05fa441-a429-4794-9151-05b1ea01610b,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-7fe9f71f-5430-486c-88a1-5b536910fd82,0.148,0.148,NYU Langone Health,True,2350,2866,generated_id_d4735e3a
+random-id-ba057523-f122-4fcb-8fa9-d2891e3dd7fd,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-0bcadde5-9f84-4707-8e3d-cf3e05948d7e,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_6b86b273
+random-id-94a11b66-ff66-4bb1-ab78-c93bdcbb7b4f,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-eea7d18a-b94d-438e-a7bd-c4aec0d546c8,0.148,0.148,NYU Langone Health,True,2350,2866,generated_id_6b86b273
+random-id-769831bc-8e40-4c8f-a88f-e6d3dd9dda5d,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4e074085
+random-id-6d8f3c50-6bb9-46c1-8824-1dee59709a6d,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-aa7463d8-2ca6-43c0-8e7e-9bb55bfc40dd,0.148,0.148,NYU Langone Health,True,2350,2866,generated_id_d4735e3a
+random-id-d857c152-5eea-4fd9-8546-f6481787716a,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-b9aa88ec-8897-491d-ad51-90334386d71f,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-54cba132-d6ff-44f1-9804-c5c110986c30,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_d4735e3a
+random-id-489eedf0-c1a2-4219-9ecb-a03a043ad1f0,0.139,0.139,NYU Langone Health,True,2520,2741,generated_id_d4735e3a
+random-id-8ee758e6-7d27-4d00-9ad4-4d2ccbe433b4,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-f97ba09b-419f-4781-8612-34558bb2e2ed,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-05d179d3-336c-4536-9ab2-af0de4363b74,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4e074085
+random-id-8e85b617-8f00-4d91-9010-03173e43aca0,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_d4735e3a
+random-id-363df4d9-f7b7-4c11-898d-7a1829c3034b,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-e68bc501-e6f2-4086-bcf1-64f5af9da967,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-8b9e2d9e-7964-415f-a142-9f68a9c3bb26,0.139,0.139,NYU Langone Health,True,2093,2585,generated_id_6b86b273
+random-id-952ae4c8-b04c-43d4-8754-5a455da2e48c,0.139,0.139,NYU Langone Health,True,2517,2611,generated_id_ef2d127d
+random-id-901cd76b-1ea4-41f5-a7a2-f4da2272a0c7,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_d4735e3a
+random-id-8c57a002-d6d4-4d98-ad53-bcc91c50b1ac,0.139,0.139,NYU Langone Health,True,2280,3028,generated_id_4e074085
+random-id-d7f40df9-835b-470c-a5c2-eea3b6f7aa08,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-00e3e3e6-626d-4f8a-88b4-909b9654bc37,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_d4735e3a
+random-id-9d41bc97-f803-46d6-a427-cea8ce102b45,0.139,0.139,NYU Langone Health,True,2374,2935,generated_id_6b86b273
+random-id-e988b3eb-fae6-431f-901e-bb41cb96aa63,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4e074085
+random-id-d723a1b4-d9bd-4778-8e1b-cea86b5a4eed,0.139,0.139,NYU Langone Health,True,2517,2510,generated_id_6b86b273
+random-id-922a2fb7-56cf-477e-b8ee-63468d2b986c,0.139,0.139,NYU Langone Health,True,2520,2596,generated_id_d4735e3a
+random-id-af27506b-550a-4e9c-9691-10aa58d9454c,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-9551c2e1-5e2f-41f7-bc8e-fd7dd3ab9e9f,0.139,0.139,NYU Langone Health,True,2165,3028,generated_id_4b227777
+random-id-9a75b4a5-4ba2-41c9-b177-20cffafc9874,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_d4735e3a
+random-id-dc9a3aad-5eeb-4c31-a591-8500a82f1341,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-58096368-aa68-4a41-a4af-677f316db472,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_d4735e3a
+random-id-3f164baf-6d21-4fcb-99b4-d01f6ffb6fa6,0.15,0.15,NYU Langone Health,True,2836,2336,generated_id_d4735e3a
+random-id-38cfa848-afb7-461e-b574-125db5f284c7,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-2eaf47ce-a23c-4c9d-8dca-131d98f0112b,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_d4735e3a
+random-id-c3ddca42-df09-46e1-baf9-c5c226094d2f,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-98274023-2db6-4faa-bfaa-a6220de54d2c,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_d4735e3a
+random-id-d755a753-5c6d-4c33-af34-815f646ddc9b,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4e074085
+random-id-c7140044-0bf8-4870-b621-c6d01c87f882,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_4b227777
+random-id-313a9096-ecf3-498b-82c6-3ed119cbb7eb,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-f77da1fe-b209-4780-bd30-ecd8f2a5a907,0.139,0.139,NYU Langone Health,True,2268,2782,generated_id_6b86b273
+random-id-4ee3bad2-0ad2-4aa4-8d1c-108c099c0a0c,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_6b86b273
+random-id-337902b7-4309-49fc-b0b9-cfb2d2f3d2df,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4b227777
+random-id-72f98da7-b312-4a78-bb83-671f583374e1,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-04340116-d134-4882-954e-3ff8a836bc6f,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-c09e6831-6543-4506-ac1c-b0e733401643,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-4d968c17-444c-43bf-bbdf-41c7fa8c2003,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_d4735e3a
+random-id-53ddef3a-09a3-4e26-80f1-f493dbbb441a,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-85c27a18-a680-4782-a13c-5c94eef2df40,0.139,0.139,NYU Langone Health,True,2544,3056,generated_id_4e074085
+random-id-87cdca02-fab2-4cea-8ef5-e16511de735f,0.139,0.139,NYU Langone Health,True,3028,2424,generated_id_4e074085
+random-id-b6c33665-dca9-4a51-be6f-c00806b070ba,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_4e074085
+random-id-cb858919-fe21-40ac-b362-f0ce0f243e86,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-9938fe73-cd86-4367-8366-d458c9040143,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4b227777
+random-id-67876a69-1fed-4c58-80f1-00428840cea1,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_4e074085
+random-id-809edbe8-da6c-49e9-9d79-88c30c1a2ec8,0.139,0.139,NYU Langone Health,True,2544,3056,generated_id_4e074085
+random-id-8eda640a-b138-448a-943a-93f793c874f3,0.139,0.139,NYU Langone Health,True,2589,2280,generated_id_6b86b273
+random-id-511593c7-9a4a-44ac-a986-ff61581b77b7,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_dea570d5
+random-id-c4fdfe9e-4aeb-498d-90e6-fb8a0913c324,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-2651168d-a9bc-46f5-93b8-e6be14ec0a4d,0.148,0.148,NYU Langone Health,True,2350,2866,generated_id_6b86b273
+random-id-f54d083a-fa42-43cf-b51e-fc9bb38b5dbc,0.148,0.148,NYU Langone Health,True,2350,2866,generated_id_d4735e3a
+random-id-d3785b0f-d479-48ca-b415-11cf2e8fbb5a,0.15,0.15,NYU Langone Health,True,2836,2336,generated_id_6b86b273
+random-id-9178ba15-ae40-498e-bd1d-a919e62f900c,0.139,0.139,NYU Langone Health,True,3056,2544,generated_id_6b86b273
+random-id-e94bed6c-8d76-4315-9cbf-be8b270b1971,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-74aa387d-a30b-4dd1-9b90-c107a166a83e,0.139,0.139,NYU Langone Health,True,2520,3016,generated_id_4e074085
+random-id-58f8fa2d-3c5b-4b82-b55c-5ebc4d3635b8,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_4e074085
+random-id-3f1c310c-f930-4ff7-952f-6a586716144e,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_4e074085
+random-id-4ea54246-8306-448d-ba83-96d465a0e0f9,0.139,0.139,NYU Langone Health,True,2517,2769,generated_id_6b86b273
+random-id-dd96212b-e116-44b5-84f8-fe2cb2d27ced,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_6b86b273
+random-id-3cf673a2-b64b-4e77-9c59-d703f9925379,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-bbdc5b95-bfdd-435a-835e-1294a9e0a79b,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4b227777
+random-id-49756ac1-1e05-4431-9820-10c4d60e347c,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_4e074085
+random-id-6b246881-2ead-420e-a2c4-fc5c53ae9431,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_d4735e3a
+random-id-09eac3b9-60af-4caa-b68d-ffe71461847a,0.139,0.139,NYU Langone Health,True,2544,3056,generated_id_6b86b273
+random-id-92cb541b-6141-4633-8695-e0ac292e4133,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_d4735e3a
+random-id-aa6edf86-0489-4d79-9687-aabeeaa9dcd4,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-122bcf20-cd8c-41c3-98e6-6c101302e17a,0.1988,0.1988,NYU Langone Health,True,1520,1620,generated_id_d4735e3a
+random-id-6c6c6d44-2928-4151-857a-e74a1690b0fb,0.139,0.139,NYU Langone Health,True,2544,3056,generated_id_6b86b273
+random-id-c01dc67b-3fa3-4f09-896f-e78031b5ce4f,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-868355c7-f6b3-460e-92c9-a5828302273f,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_6b86b273
+random-id-ac98731f-66b3-4f0b-bc29-bf11c76cbd69,0.139,0.139,NYU Langone Health,True,2517,3028,generated_id_4b227777
+random-id-79005d42-ed04-44cb-b5c4-e69b5b46d61d,0.148,0.148,NYU Langone Health,True,2866,2350,generated_id_4e074085
+random-id-b07dc83d-e3d4-4791-9b9c-a10dd1e0683e,0.15,0.15,NYU Langone Health,True,2336,2596,generated_id_d4735e3a
+random-id-d2fe6f61-3344-43ca-8057-bbfb7a10e4a5,0.15,0.15,NYU Langone Health,True,2336,2836,generated_id_6b86b273
+random-id-4817b4ac-00b2-46a7-9ad3-2d8e50e33a48,0.139,0.139,NYU Langone Health,True,2520,3032,generated_id_6b86b273
+random-id-6f8b3c58-701f-445f-85e4-64737ffef5e8,0.148,0.148,NYU Langone Health,True,2350,2866,generated_id_d4735e3a
+random-id-5f5335e9-2f52-4a65-a937-7c6bc6d5b642,0.139,0.139,NYU Langone Health,True,2517,2553,generated_id_d4735e3a
+random-id-a1b02f2f-b1c6-4b45-ba7b-2671fee9a5da,0.139,0.139,NYU Langone Health,True,2395,3028,generated_id_ef2d127d
+random-id-73a006b9-adeb-4b93-95fc-6d4d302aec85,0.175,0.175,Osaka City University,True,2430,1994,generated_id_cd080979
+random-id-1df2bfd8-7994-49f9-8188-15ce72edafae,0.2,0.2,Osaka City University,True,1744,1744,generated_id_7bc51c8f
+random-id-460c11b7-903f-4c4e-978d-4257ca67f46a,0.2,0.2,Osaka City University,True,2128,1744,generated_id_8d51ec06
+random-id-f72fca20-2e7e-4f04-88a1-62a3f9a594d8,0.2,0.2,Osaka City University,True,2124,2124,generated_id_d823f96c
+random-id-d3b515fe-bd15-4c45-80c4-bdcda0783015,0.2,0.2,Osaka City University,True,2128,1744,generated_id_c6ebefa5
+random-id-7d13337d-5863-4b97-8cb3-3011b9c1f619,0.2,0.2,Osaka City University,True,2140,1760,generated_id_e9bae202
+random-id-accca122-5ea3-4737-9876-448db68d087a,0.2,0.2,Osaka City University,True,2128,1744,generated_id_0f055e8b
+random-id-a1871d0d-9591-4047-9ffa-c13a05c01b98,0.2,0.2,Osaka City University,True,2128,1744,generated_id_9ed870a1
+random-id-4a37641b-d89c-47f2-86cc-b5d41d21b907,0.2,0.2,Osaka City University,True,2128,1744,generated_id_5a42dff2
+random-id-b2c83bf4-617f-49f2-9a4e-803f31aec74e,0.2,0.2,Osaka City University,True,2128,1744,generated_id_d83c9092
+random-id-7757e474-45d0-4f6b-bf60-d3d3f690f434,0.2,0.2,Osaka City University,True,2128,1796,generated_id_fe916a7c
+random-id-a0f637d2-3f8f-4241-8055-9990e1f16c03,0.2,0.2,Osaka City University,True,2128,1744,generated_id_1ac579de
+random-id-73a80aed-c586-47a1-af80-807156c8a9c1,0.2,0.2,Osaka City University,True,2128,1744,generated_id_8a2d86d2
+random-id-1293932e-d873-4814-8cd8-c95646bc81b4,0.2,0.2,Osaka City University,True,2128,1744,generated_id_05463487
+random-id-a26597e1-9b74-4e45-887b-2bf1aad91713,0.2,0.2,Osaka City University,True,2128,1744,generated_id_c8956a86
+random-id-690adf9c-19d9-4f17-9436-190f721f6ab9,0.2,0.2,Osaka City University,True,2128,1744,generated_id_14a1b410
+random-id-1d8e61f1-bfa8-4912-98fc-45f45b647daf,0.2,0.2,Osaka City University,True,2128,1744,generated_id_c86c802e
+random-id-9c376ed7-59a1-41d2-94f7-ddadcf890eb2,0.2,0.2,Osaka City University,True,2128,1744,generated_id_044b9c96
+random-id-bb12520e-fb96-4259-af89-4be78469b74f,0.2,0.2,Osaka City University,True,2128,1900,generated_id_43a244a4
+random-id-f930fc20-9e64-4bfb-96ca-986d0c70ddb1,0.2,0.2,Osaka City University,True,2128,1744,generated_id_d5f76ca1
+random-id-cee30930-f0bb-415b-9a05-baaa5da99f27,0.2,0.2,Osaka City University,True,2128,1744,generated_id_e9dcdece
+random-id-c7757ec2-0d10-4cc6-8218-d1bd6e209f7f,0.2,0.2,Osaka City University,True,2128,1744,generated_id_11c06e56
+random-id-4a1164a9-ec66-4e15-b78f-7150a842d584,0.2,0.2,Osaka City University,True,2128,1744,generated_id_c547e54b
+random-id-b9169cf4-a6d4-4489-8a60-7f3bd097f5c4,0.2,0.2,Osaka City University,True,2128,2004,generated_id_9ad971ac
+random-id-23c7d535-01b9-48b5-a248-8cc11251d332,0.2,0.2,Osaka City University,True,2128,1744,generated_id_a2404b20
+random-id-031b0cd6-00d6-4be2-813c-9cdad3c46dac,0.2,0.2,Osaka City University,True,2124,2124,generated_id_e5b9994b
+random-id-b002f9cb-1f55-4804-a9d1-225df8d4cead,0.2,0.2,Osaka City University,True,2128,1744,generated_id_202738d8
+random-id-1376c4a8-b23b-441f-8c43-9510a93078bf,0.2,0.2,Osaka City University,True,2128,1744,generated_id_0852b923
+random-id-633cd0b6-163e-4f0c-80e1-d96ac389c992,0.2,0.2,Osaka City University,True,2128,1744,generated_id_e298fda8
+random-id-f4aebb6d-5cc8-457d-84fa-fcbafe5443ea,0.2,0.2,Osaka City University,True,2128,1744,generated_id_cd2b8900
+random-id-7d6de10c-228e-491d-9328-67c4b914877f,0.2,0.2,Osaka City University,True,2128,1744,generated_id_29e2287a
+random-id-08a41e50-dc70-48ef-9235-3fc241eccaff,0.2,0.2,Osaka City University,True,2128,1744,generated_id_cf0115db
+random-id-006fc4a6-208b-418a-beab-ac3ed84024d6,0.2,0.2,Osaka City University,True,2128,1744,generated_id_77f7897c
+random-id-eabcd64f-1e3c-46cc-b12e-78f5026a4b2b,0.2,0.2,Osaka City University,True,2128,1744,generated_id_73bbc7fe
+random-id-37cbff49-1d78-44f6-8420-bd26e5c11a01,0.2,0.2,Osaka City University,True,2128,1744,generated_id_c0d6acde
+random-id-4c234828-ec0c-4fa3-acf2-94be6cf75c98,0.2,0.2,Osaka City University,True,2128,1744,generated_id_37878fa4
+random-id-a7a776c5-de8d-4ba3-9d49-509532c48a7d,0.2,0.2,Osaka City University,True,2128,1744,generated_id_99709678
+random-id-167b6f6d-1e56-4e6b-92da-12025840eff3,0.2,0.2,Osaka City University,True,1744,1744,generated_id_6adf7f89
+random-id-805c9924-9e6a-4c2e-8934-62015fd8577a,0.2,0.2,Osaka City University,True,2128,1744,generated_id_30062cf3
+random-id-1c6a38e7-7315-45e1-8fb9-264df413aacc,0.2,0.2,Osaka City University,True,2128,1744,generated_id_3f67119a
+random-id-d0e37262-a78f-4e02-a902-a6673eccf5aa,0.2,0.2,Osaka City University,True,2128,1744,generated_id_06c28473
+random-id-f88dec2c-cf3e-45eb-9d2f-4108e78d5a7f,0.2,0.2,Osaka City University,True,2128,1744,generated_id_d3233d30
+random-id-2a7f1b3d-110e-4d99-87ee-934b6315d0a8,0.2,0.2,Osaka City University,True,2128,1744,generated_id_0ef82b14
+random-id-793eb82a-1590-46ad-a41e-8f9244313cad,0.175,0.175,Osaka City University,True,2430,1994,generated_id_f56889e3
+random-id-a3e0ddd6-8e46-4d12-951b-0d54daa1810f,0.2,0.2,Osaka City University,True,2128,1900,generated_id_896702ae
+random-id-5679f6fd-49d1-4d5e-9b13-23e4a4887a04,0.2,0.2,Osaka City University,True,2128,1744,generated_id_8107fc23
+random-id-e367872e-65bd-4930-ae99-14b6686f1106,0.2,0.2,Osaka City University,True,2128,1744,generated_id_4876c79a
+random-id-3f5b5e54-3bc5-4543-9f38-c4887955a551,0.2,0.2,Osaka City University,True,2128,1744,generated_id_55ce860f
+random-id-1b37b23e-9c3d-4daa-9ba3-4a85f832eb06,0.2,0.2,Osaka City University,True,2128,1744,generated_id_1b5b652a
+random-id-c5f18390-96b0-4cb8-ae6f-841effaf5372,0.2,0.2,Osaka City University,True,2128,1744,generated_id_4a6ed1ca
+random-id-5d9c5e35-0e51-4b45-88da-8fe95b707bda,0.2,0.2,Osaka City University,True,2128,1744,generated_id_e95d3558
+random-id-5af65d56-788e-48ad-8e2f-bb459c954215,0.2,0.2,Osaka City University,True,2128,1744,generated_id_070bbc70
+random-id-204fa2b1-7b7d-4f2b-af06-5d567403f18c,0.175,0.175,Osaka City University,True,2430,1994,generated_id_6a8afc2f
+random-id-25c7e6fa-ac95-4937-92a2-351e73874ff0,0.2,0.2,Osaka City University,True,2024,1744,generated_id_b0eb2742
+random-id-0f54480e-d337-4e37-846b-eb5d0d60734a,0.175,0.175,Osaka City University,True,2430,1994,generated_id_812eb2f2
+random-id-fc1bf2db-0335-44d7-a9ba-5becae269f92,0.175,0.175,Osaka City University,True,2430,1994,generated_id_0c2078a5
+random-id-fc93e146-3724-4307-b932-99a6148b7309,0.2,0.2,Osaka City University,True,2128,1744,generated_id_38e17c0a
+random-id-53f68327-b530-49bb-8aa8-dae41de4e024,0.2,0.2,Osaka City University,True,2128,1900,generated_id_710e0359
+random-id-49bacb60-5f19-4f98-b510-7d0665216cde,0.2,0.2,Osaka City University,True,2128,1744,generated_id_2b665788
+random-id-ee45c74c-4b3a-4114-9c6e-1e38f1576f71,0.2,0.2,Osaka City University,True,2128,1744,generated_id_cc66505b
+random-id-289999da-2051-4c51-8b2f-5dd1d9d9dcc0,0.2,0.2,Osaka City University,True,2128,1744,generated_id_591fe2f6
+random-id-58c8e8ab-3c39-410f-930a-03246ea42e6e,0.2,0.2,Osaka City University,True,2128,1744,generated_id_5919e4cb
+random-id-539f69a8-d7fb-4908-a73a-c305db19a550,0.2,0.2,Osaka City University,True,2124,2124,generated_id_7bd7af9e
+random-id-6430bc1e-56b2-4448-b5df-8899519f1402,0.2,0.2,Osaka City University,True,2128,1744,generated_id_ef083fa4
+random-id-e5856677-766d-4aaa-9536-b7b703fd8548,0.2,0.2,Osaka City University,True,2128,1744,generated_id_118902cc
+random-id-618918a8-1dd1-4141-be9c-6eeac13e25d1,0.2,0.2,Osaka City University,True,2128,1744,generated_id_008296dc
+random-id-6bd2d740-b3ee-4e5b-acf0-2157541bb995,0.2,0.2,Osaka City University,True,2128,1744,generated_id_d052b9eb
+random-id-8a615ba5-1142-432b-b9f3-2cc858f7265d,0.2,0.2,Osaka City University,True,2128,1744,generated_id_d5434443
+random-id-a0b52442-b5ac-427d-bd3e-2b9dff90f045,0.2,0.2,Osaka City University,True,2124,2124,generated_id_0d01a213
+random-id-3f76c5e8-5247-4224-adb0-4e3d18a655d7,0.2,0.2,Osaka City University,True,2128,1744,generated_id_56debbff
+random-id-c4dbab95-5046-4a8b-93bc-2d507c876f52,0.2,0.2,Osaka City University,True,2128,1848,generated_id_7cfe904e
+random-id-8f4373b5-3db7-4bdd-87d3-cea6fd5449f9,0.2,0.2,Osaka City University,True,2128,1744,generated_id_94c91e6f
+random-id-a1e40f11-cea9-452e-b616-4071643691ea,0.2,0.2,Osaka City University,True,2128,1848,generated_id_c39f7e48
+random-id-76ace963-2b51-43b5-bb9c-2dd052619032,0.2,0.2,Osaka City University,True,2128,1744,generated_id_db33c3ce
+random-id-a5ebc1c4-d736-4530-916a-c593188b4e43,0.2,0.2,Osaka City University,True,2128,1744,generated_id_0517d3ce
+random-id-1f9ad836-4d73-40f8-be36-25680a6a6fa2,0.2,0.2,Osaka City University,True,2128,1744,generated_id_194e9b1e
+random-id-905fffd6-2d26-445c-a26c-2ae391ef6b2d,0.2,0.2,Osaka City University,True,2128,1744,generated_id_1ff2ea86
+random-id-6ef90fe7-9384-442f-b715-81fc35330f5b,0.2,0.2,Osaka City University,True,2128,1744,generated_id_1924b535
+random-id-fd7af67b-bff9-4655-9301-6c2db8c59706,0.2,0.2,Osaka City University,True,1744,1744,generated_id_1eeb45e5
+random-id-e6603834-b501-4b5a-8699-948720cc9484,0.2,0.2,Osaka City University,True,2128,1744,generated_id_2caf9af0
+random-id-9d85f465-aae4-48ca-9c13-b6c715233255,0.2,0.2,Osaka City University,True,2128,2004,generated_id_7f0c6192
+random-id-43a19da4-3d46-4f05-968d-339b10103223,0.2,0.2,Osaka City University,True,2128,1744,generated_id_a0318e9f
+random-id-795ea1b3-2b68-4ddd-bbd5-c7a30bb573d1,0.2,0.2,Osaka City University,True,2128,1744,generated_id_25b17c8a
+random-id-ef51336f-2350-4fb4-bdd8-be78cbafb64d,0.2,0.2,Osaka City University,True,2128,1744,generated_id_84c29ab1
+random-id-77fea7ac-bbd0-42c2-8513-9c9d268fdcf3,0.2,0.2,Osaka City University,True,2128,1744,generated_id_b445a1bc
+random-id-dc1ad925-e619-4ebf-8330-5cc5a163e6c8,0.2,0.2,Osaka City University,True,2128,1744,generated_id_eaa8ca50
+random-id-78db0454-4a21-4273-b03f-91393ddb2375,0.2,0.2,Osaka City University,True,2128,1744,generated_id_2fc990ef
+random-id-5e1fba98-8219-4c34-bcfd-cdac20d6195d,0.2,0.2,Osaka City University,True,2128,1796,generated_id_87b1e243
+random-id-d6003514-07b9-4cf5-8fd0-c8b626e4d7a3,0.2,0.2,Osaka City University,True,2128,1744,generated_id_b95e0d6f
+random-id-fa9389ec-3a3b-43a7-bf7e-d1cac3424210,0.2,0.2,Osaka City University,True,2128,1744,generated_id_7f69d2fa
+random-id-d2505d62-26b9-4972-8cb8-437d8a3df747,0.2,0.2,Osaka City University,True,2128,1744,generated_id_83f590ab
+random-id-574034a9-e4a6-42d2-9788-6f1b8b34c18d,0.175,0.175,Osaka City University,True,2430,1994,generated_id_2d437fd3
+random-id-3c9c3e8f-b8b6-40a3-9ef0-c46a7797af10,0.2,0.2,Osaka City University,True,2128,1796,generated_id_6b4cbb2c
+random-id-b558863f-829e-4e2e-a377-34bd4fb70389,0.2,0.2,Osaka City University,True,2128,1744,generated_id_33cca9c2
+random-id-17fda9c0-9fcf-4214-b2d6-ce3c72d70744,0.175,0.175,Osaka City University,True,2430,1994,generated_id_02b798f7
+random-id-ac6e1dd0-b23f-4119-b623-7e84e8fbf0f1,0.2,0.2,Osaka City University,True,2124,1744,generated_id_cea0e4d1
+random-id-a01690f6-8732-497a-be69-9d21573bf211,0.2,0.2,Osaka City University,True,2128,1848,generated_id_bd6ba3d8
+random-id-a833f681-4b88-4f17-915d-7671f261ce2d,0.2,0.2,Osaka City University,True,2128,1744,generated_id_a2937765
+random-id-873a6b2f-b640-4ffd-a561-1ce1ebda4650,0.2,0.2,Osaka City University,True,2128,1744,generated_id_6664f3c0
+random-id-7cc4606e-58f0-478d-b5d2-009219b3fff9,0.2,0.2,Osaka City University,True,2140,1760,generated_id_3bb90dfe
+random-id-ae0b9ec5-eef6-499c-95a3-e3fabdc8ab55,0.14,0.14,University of Miami,True,2466,3040,generated_id_d029fa3a
+random-id-ccef2974-2b29-4299-a07f-9adb5cb94631,0.14,0.14,University of Miami,True,2465,3039,generated_id_ad48ff99
+random-id-b00a88ea-cc93-4742-b8b9-4bd1a904d57c,0.14,0.14,University of Miami,True,3040,2466,generated_id_3e1e967e
+random-id-847349bc-279e-4411-9566-7d471f73ecfe,0.14,0.14,University of Miami,True,2466,3040,generated_id_82416496
+random-id-57634efb-f51e-464f-aeaf-fa8e77d5192d,0.14,0.14,University of Miami,True,2465,3039,generated_id_3ada92f2
+random-id-c2dffb41-4710-40fa-bbaf-8ddf1ab23699,0.14,0.14,University of Miami,True,2996,2422,generated_id_1a656259
+random-id-d61d8d21-eb52-4bfd-b4ee-12a3ac308b3f,0.14,0.14,University of Miami,True,2388,2938,generated_id_a21855da
+random-id-c35d5511-8aff-406d-b7ad-92f8371d04d2,0.14,0.14,University of Miami,True,2116,2500,generated_id_c837649c
+random-id-d5b6c2ab-80b6-45a7-8a22-d13963698234,0.14,0.14,University of Miami,True,2466,3040,generated_id_e29c9c18
+random-id-0188d1e9-6f43-428f-bdf3-649a0ddb6009,0.14,0.14,University of Miami,True,2274,2522,generated_id_9f14025a
+random-id-307f7d0c-e048-472a-a9f7-bd89c9dddd1e,0.14,0.14,University of Miami,True,2466,3040,generated_id_c75cb66a
+random-id-53d44101-5b43-4b5a-9140-dcde8f5406d9,0.14,0.14,University of Miami,True,2466,2552,generated_id_7688b6ef
+random-id-faeefffb-46c2-4f61-8f1b-e9ba8f238610,0.14,0.14,University of Miami,True,2392,2753,generated_id_031b4af5
+random-id-4a4e9784-e537-4566-b862-c4c5158245b8,0.14,0.14,University of Miami,True,2465,3039,generated_id_6208ef0f
+random-id-1f71ce8c-a07e-440e-9815-94c7149dd8af,0.14,0.14,University of Miami,True,3040,2325,generated_id_49d180ec
+random-id-60aacfcf-0cd2-4b89-a7cb-a055d219e835,0.14,0.14,University of Miami,True,2466,3040,generated_id_6e400187
+random-id-dafd887e-9e8b-4abd-a437-f9bd7813e4ee,0.14,0.14,University of Miami,True,2465,3039,generated_id_e3d6c4d4
+random-id-91a1bc86-0307-41ea-8d65-0b1c71f5e674,0.14,0.14,University of Miami,True,2466,2672,generated_id_39fa9ec1
+random-id-95b12953-eee4-4a00-add2-bbb1b1b8dcac,0.14,0.14,University of Miami,True,2466,2517,generated_id_86e50149
+random-id-d77869c7-aab7-49bf-a4a9-d43810b32371,0.14,0.14,University of Miami,True,2422,2996,generated_id_c6f3ac57
+random-id-f5395d6f-5a73-424d-b137-907b3f72db9a,0.14,0.14,University of Miami,True,2432,2522,generated_id_f5ca38f7
+random-id-4c7b54e4-8e8b-4b02-a06a-bb1adfa8393a,0.14,0.14,University of Miami,True,3039,2465,generated_id_4ec9599f
+random-id-a91db8a7-4588-4aea-a561-45676265c9df,0.14,0.14,University of Miami,True,2465,3039,generated_id_670671cd
+random-id-6db91c5f-922d-47bf-998a-9b1d3d062b85,0.14,0.14,University of Miami,True,2466,3040,generated_id_19581e27
+random-id-d5824466-84b7-4435-914a-de2edf5967ed,0.14,0.14,University of Miami,True,2466,3040,generated_id_4fc82b26
+random-id-43b71cf1-0c93-4d2e-926e-1d9e4b3b6ca3,0.14,0.14,University of Miami,True,2996,2422,generated_id_7902699b
+random-id-eb50f94c-2583-4082-b1bf-c530a1413d5d,0.14,0.14,University of Miami,True,2466,3040,generated_id_35135aaa
+random-id-e48e6eb9-178a-414f-8bf6-637da6ffdfa3,0.14,0.14,University of Miami,True,2422,2996,generated_id_b17ef6d1
+random-id-5eb2aef4-a93f-4537-9c0b-4feea07a885a,0.14,0.14,University of Miami,True,2385,2701,generated_id_73475cb4
+random-id-980115ea-bf40-4f6a-86e9-f0da20aaef97,0.14,0.14,University of Miami,True,3040,2466,generated_id_cd70bea0
+random-id-209765e7-3dfe-442b-9fb0-87f94cf8db76,0.14,0.14,University of Miami,True,3040,2466,generated_id_811786ad
+random-id-3c1c8e47-f19c-46e4-b008-189be7ed9369,0.14,0.14,University of Miami,True,2466,2434,generated_id_96061e92
+random-id-e7316855-f770-497e-b3bf-248495d9d919,0.14,0.14,University of Miami,True,2466,3040,generated_id_bdd2d3af
+random-id-42e71637-9e80-410f-9e45-70d0d17a83e9,0.14,0.14,University of Miami,True,3040,2466,generated_id_48449a14
+random-id-88d2b26c-775c-4147-b9d1-20872aed046c,0.14,0.14,University of Miami,True,2466,2568,generated_id_eb624dbe
+random-id-aa4b8496-cfdb-4af5-839f-97f7bcc4eb96,0.14,0.14,University of Miami,True,3040,2466,generated_id_e7f6c011
+random-id-c806d958-6c57-49c2-b9ac-a4eb3157007f,0.14,0.14,University of Miami,True,2465,3039,generated_id_59e19706
+random-id-d11c08c5-130c-4e4e-84f8-db664fafcae8,0.14,0.14,University of Miami,True,2422,2996,generated_id_4523540f
+random-id-59fade5a-09ba-4357-8e76-5e7cf9ecfcb0,0.14,0.14,University of Miami,True,3040,2292,generated_id_6b86b273
+random-id-985fcf54-71a7-40ad-8677-1c876e259d86,0.14,0.14,University of Miami,True,2465,2687,generated_id_4a44dc15
+random-id-7e1243c0-c436-4511-a012-8316580b38be,0.14,0.14,University of Miami,True,2466,3040,generated_id_9400f1b2
+random-id-db5d361f-fe84-4346-bf39-c45ff94b4a16,0.14,0.14,University of Miami,True,2359,2806,generated_id_5f9c4ab0
+random-id-93acd0be-1a8d-4088-89c9-4dc27d559bdb,0.14,0.14,University of Miami,True,2437,2673,generated_id_2c624232
+random-id-67a08107-80a6-43d5-8169-7f748abfc858,0.14,0.14,University of Miami,True,2466,3040,generated_id_6f4b6612
+random-id-a55a25ae-bade-4b12-bfbe-1255039b2c1b,0.14,0.14,University of Miami,True,2113,3040,generated_id_f369cb89
+random-id-98e7bae7-b8e4-453c-b3c3-c8328728f128,0.14,0.14,University of Miami,True,3040,2466,generated_id_5316ca1c
+random-id-4de60aaf-d229-4bd7-a1c6-08b060b1d373,0.14,0.14,University of Miami,True,2465,3039,generated_id_434c9b5a
+random-id-4e865ed8-eedc-449b-83a5-655ef91727e5,0.14,0.14,University of Miami,True,2466,3040,generated_id_87226162
+random-id-3592875c-f0ed-45f4-b511-a1933a42f5a2,0.14,0.14,University of Miami,True,2466,3040,generated_id_71ee45a3
+random-id-cdf3efd1-7870-4c52-a388-47dfb1db2b65,0.14,0.14,University of Miami,True,2465,3039,generated_id_44cb730c
+random-id-22b4ea06-9663-47b6-9c87-d3519531ebc1,0.14,0.14,University of Miami,True,2466,3040,generated_id_8b940be7
+random-id-8e8d4424-4027-4748-a2bc-4c7496b4b3df,0.14,0.14,University of Miami,True,3040,2466,generated_id_aea92132
+random-id-5beb6a4b-cc22-45f5-8ee7-c060f9c1d185,0.14,0.14,University of Miami,True,2465,3039,generated_id_76a50887
+random-id-ed04121e-7e1c-4bc1-b585-19d424162cb8,0.14,0.14,University of Miami,True,2465,3039,generated_id_eb1e33e8
+random-id-93414f8b-193c-44db-8e64-cd710b1ceaf5,0.14,0.14,University of Miami,True,2255,2486,generated_id_1da51b8d
+random-id-d3e69356-dc77-4124-a85d-6103329e82d9,0.14,0.14,University of Miami,True,2466,3040,generated_id_108c995b
+random-id-f026d51c-acdb-4493-a75b-e99ca696e803,0.14,0.14,University of Miami,True,2458,2732,generated_id_81b8a03f
+random-id-783e11b9-627a-40c1-a09e-ee9f9cf4f2d3,0.14,0.14,University of Miami,True,2466,3040,generated_id_7b1a278f
+random-id-a237b713-d2da-49e1-895f-6a06b5e73906,0.14,0.14,University of Miami,True,2466,3040,generated_id_ad573668
+random-id-eca0189b-cd85-4c49-a9fc-c26a6c6da053,0.14,0.14,University of Miami,True,2466,2985,generated_id_2fca346d
+random-id-c28f9a7e-30d8-4d3d-a56c-aa6218515843,0.14,0.14,University of Miami,True,2465,3039,generated_id_29db0c67
+random-id-b7374c4a-e4ad-451c-8dec-d6ef5188d6f2,0.14,0.14,University of Miami,True,2465,3039,generated_id_2858dcd1
+random-id-226958fe-a2a4-4633-bc97-0f474f4f2fb2,0.14,0.14,University of Miami,True,2466,3040,generated_id_624b60c5
+random-id-567c2be4-15ae-49da-81ea-d281574da8c2,0.14,0.14,University of Miami,True,2465,3039,generated_id_7a61b537
+random-id-b09875a1-44a0-4ec9-a908-2cb15da4e996,0.14,0.14,University of Miami,True,3039,2465,generated_id_0b918943
+random-id-5706087a-d516-4c36-ab51-9fcdc1ee5ff5,0.14,0.14,University of Miami,True,2105,3040,generated_id_8c1f1046
+random-id-a8eb065f-0d64-47e5-a17e-9ebbe64705d2,0.14,0.14,University of Miami,True,2046,2324,generated_id_41cfc0d1
+random-id-f1751861-2211-42e7-84cd-c925640bb447,0.14,0.14,University of Miami,True,3039,2465,generated_id_02d20bbd
+random-id-991f6c8d-9b32-4768-ad12-7f23826e7430,0.14,0.14,University of Miami,True,2465,3039,generated_id_d6d824ab
+random-id-ad228089-f582-4cb5-b113-40753d58eb85,0.14,0.14,University of Miami,True,2177,2445,generated_id_da4ea2a5
+random-id-99e49ba2-665d-41d1-bb5c-fb67cc57b689,0.14,0.14,University of Miami,True,3039,2465,generated_id_a68b412c
+random-id-4a86b264-408c-4896-9394-916464647d1f,0.14,0.14,University of Miami,True,2465,3039,generated_id_69f59c27
+random-id-ce0d1381-214c-4a09-83de-57837b52d5b0,0.14,0.14,University of Miami,True,2465,2797,generated_id_25fc0e70
+random-id-b1c13d1d-6dce-41d4-a628-39c143f12777,0.14,0.14,University of Miami,True,2465,3039,generated_id_98a3ab7c
+random-id-5b2fff99-2159-4975-9081-9975789af60f,0.14,0.14,University of Miami,True,2370,2288,generated_id_3d914f93
+random-id-4d506cda-8586-4e3e-a8d7-90bf2959687c,0.14,0.14,University of Miami,True,2231,3103,generated_id_bbb965ab
+random-id-34791398-6de2-4f95-912d-dc127eddbf88,0.14,0.14,University of Miami,True,2466,2847,generated_id_a88a7902
+random-id-cbf8c1c3-46ac-49ef-950d-1b4db1df460c,0.14,0.14,University of Miami,True,2466,3040,generated_id_98010bd9
+random-id-06d90493-d98e-41b7-ab6f-f6fda93eb111,0.14,0.14,University of Miami,True,3039,2465,generated_id_ff5a1ae0
+random-id-de1cf3b1-53ab-4bb0-bb45-266171cfcab6,0.14,0.14,University of Miami,True,2466,2709,generated_id_44c8031c
+random-id-6dcbfd8b-5455-430b-9ee6-6568ffa7efdc,0.14,0.14,University of Miami,True,2787,2385,generated_id_c2356069
+random-id-9c0af0ff-0f50-4760-9e3f-7e79e9ff09cc,0.14,0.14,University of Miami,True,2410,3040,generated_id_535fa30d
+random-id-ff30b55f-b0ba-451a-ab45-86dbf11e0b88,0.14,0.14,University of Miami,True,2146,2482,generated_id_4b227777
+random-id-2e71687a-5087-4d7b-b6f3-779bd222d92c,0.14,0.14,University of Miami,True,2422,2996,generated_id_e629fa65
+random-id-8a2c1f2e-31c6-489a-aa25-cea52a3f6170,0.14,0.14,University of Miami,True,2996,2422,generated_id_4e074085
+random-id-b42e2122-2fba-43ad-9a7f-568fba03627e,0.14,0.14,University of Miami,True,2720,3242,generated_id_6b51d431
+random-id-eaa64947-532f-4c12-b9ab-b54842225ed2,0.14,0.14,University of Miami,True,2354,3039,generated_id_b4944c6f
+random-id-471eda9f-f0c8-47b0-b1b2-8bc5df2e3be7,0.14,0.14,University of Miami,True,2723,2436,generated_id_7f2253d7
+random-id-d329d8f2-cab7-40af-93ac-0d34ca4b9708,0.14,0.14,University of Miami,True,2466,3040,generated_id_f74efabe
+random-id-ba5f2d5d-ee7d-4f69-b541-78f2d1d60360,0.14,0.14,University of Miami,True,2376,2801,generated_id_a46e3763
+random-id-1628c88a-5485-44ab-b3b5-f1fb26ed8c3d,0.14,0.14,University of Miami,True,2465,3039,generated_id_0e17daca
+random-id-815e8bbc-761a-40f7-ae6b-3c89b1c88348,0.14,0.14,University of Miami,True,3039,2465,generated_id_d59eced1
+random-id-c6c48c6f-192a-4fde-bb20-08ce434ce2c6,0.14,0.14,University of Miami,True,2465,3039,generated_id_31489056
+random-id-745b2f5c-c4fa-4213-b796-d64ffeec9f1b,0.14,0.14,University of Miami,True,2465,3039,generated_id_349c4120
+random-id-d606a89f-18fa-4827-894b-fde107038181,0.14,0.14,University of Miami,True,2466,3040,generated_id_d4735e3a
+random-id-d97fc30a-9f4b-446f-b35f-eb3d8030c74b,0.14,0.14,University of Miami,True,2012,2944,generated_id_3fdba35f
+random-id-dc15bd21-190d-4965-a93e-1f86094f596f,0.14,0.14,University of Miami,True,2501,2415,generated_id_ef2d127d
+random-id-737596de-046a-4b25-8044-f7cd48e0bb52,0.14,0.14,University of Miami,True,3040,2466,generated_id_8527a891
+random-id-353b97d3-1a64-4e0d-8a76-b812408422a9,0.14,0.14,University of Miami,True,2466,2734,generated_id_785f3ec7
+random-id-d618fa89-0cbb-434d-80b2-53ebf001d3ea,0.14,0.14,University of Miami,True,2466,3040,generated_id_b7a56873
+random-id-7281694d-226b-49f3-9e14-010cd8b54794,0.15,0.15,Morales Meseguer Hospital,True,2336,2800,generated_id_3d3a4734
+random-id-f53251fb-dd7e-46f9-abf0-06c187f3da05,0.15,0.15,Morales Meseguer Hospital,True,2288,2836,generated_id_59363777
+random-id-c6aa0034-a78a-48aa-94bb-c5af1ca38c09,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_06d5972f
+random-id-afe8ae2a-afc5-4c53-b8bd-82d24ea1259c,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_1aca7a5d
+random-id-41e66bf0-1e17-45fa-a50c-189dfe01d99e,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_5f882d94
+random-id-082b1286-5ebe-4881-b2c4-3ef9ab895909,0.148,0.148,Morales Meseguer Hospital,True,2350,2557,generated_id_d86ae3d4
+random-id-32feb9bf-7796-4727-a5ff-6fd030c0f271,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_6e285a3d
+random-id-bab6fe43-82b4-4975-914d-0f1368809d5e,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_a79cabe6
+random-id-7ef86c74-c045-435c-b9f8-73f4b3ecf6f0,0.15,0.15,Morales Meseguer Hospital,True,2676,2716,generated_id_36cb2faa
+random-id-a8a99585-4064-4a77-bc3c-aabd66cd0e18,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_f9d307d3
+random-id-efbd2234-7dde-4d2e-8e60-8dbda1b8ff92,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_aa2ca472
+random-id-8f9ef31e-7e9e-44e2-a076-74458aac2f4c,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_7d32b567
+random-id-76554651-e5c5-4e0d-b58f-973583691f61,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_d39546a9
+random-id-f557b378-285d-43cb-8e25-0122a5016b7a,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_4d4ae01e
+random-id-21856aac-e63e-4d55-89a1-7e66bc848a93,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_c4d90092
+random-id-8cb880cf-99a6-4173-866e-48d282edcead,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_628f0f93
+random-id-9cd55017-9220-44ca-b232-88412ece222a,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_57a0dafe
+random-id-a611e115-ddbf-45d9-8fdb-8db9fb3e7df0,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_7b878e12
+random-id-9b4f69dd-9ce1-4802-8edf-da59367dbbcf,0.148,0.148,Morales Meseguer Hospital,True,2350,2744,generated_id_8af3fe06
+random-id-b1b11e70-1003-4cad-b1ce-2a45313ab5cd,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_39f339f9
+random-id-5301a499-d8fc-4638-bdb2-098791dd68a5,0.148,0.148,Morales Meseguer Hospital,True,2350,2755,generated_id_e8d5b44a
+random-id-822859c0-39ad-4388-8204-3cac1662c76a,0.148,0.148,Morales Meseguer Hospital,True,2350,2744,generated_id_2ff34546
+random-id-e941792d-6524-48c0-8cec-1ffbf2660f08,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_4d6fdd89
+random-id-fee1eaae-5ebf-4a6c-8e56-6f266e5cd502,0.148,0.148,Morales Meseguer Hospital,True,2350,2619,generated_id_568d791c
+random-id-9ddf10d3-a59a-4a78-a394-eb180d9d12d8,0.148,0.148,Morales Meseguer Hospital,True,2350,2750,generated_id_6b2cfc26
+random-id-cfee0c0e-2f3a-4aad-9055-0c9699209b31,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_767204a5
+random-id-8e736a07-5846-452c-9ba1-2741e5736417,0.15,0.15,Morales Meseguer Hospital,True,1917,2273,generated_id_de1c9edb
+random-id-20712b9d-de77-4a65-ad00-4fb841f5f137,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_129f1093
+random-id-30ec2432-45c2-4cb1-a308-d691782ef4ca,0.148,0.148,Morales Meseguer Hospital,True,2350,2815,generated_id_5b897bb3
+random-id-37168ae4-9085-4676-8a2f-a6d61e0a6a7f,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_d2a5f434
+random-id-c0555605-a0f0-42df-96c1-71175ea16379,0.15,0.15,Morales Meseguer Hospital,True,2336,2776,generated_id_4677561b
+random-id-e669dd6b-e38c-4315-85da-f1267786e7df,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_4df204a3
+random-id-1215b6a6-7381-48ab-ab4f-35b89a167e89,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_28d0cc49
+random-id-2a0eaf99-f5ad-441a-9b87-eba54f9eb011,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_38af3bd7
+random-id-df1c8d21-9f46-4f96-924e-afbc8ceb2800,0.148,0.148,Morales Meseguer Hospital,True,2220,2435,generated_id_01fa5d2a
+random-id-4ca1dbb0-bd9e-4db6-b5f4-e58d79526e96,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_3e9552f2
+random-id-e2535d46-e08d-4f2c-a5bc-abf34b6a4ada,0.148,0.148,Morales Meseguer Hospital,True,2350,2560,generated_id_963d89e0
+random-id-b3dc91bf-50c8-46be-8f5e-0f27acb48a65,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_27ed5f1d
+random-id-8ef0b466-e071-4e02-afaa-914352c53d9c,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_2b270a13
+random-id-5118f340-b3d1-45f7-a8f3-764e067bd22b,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_03e2de40
+random-id-8c128247-d7df-4e7c-a806-1e36b58cb809,0.15,0.15,Morales Meseguer Hospital,True,2336,2788,generated_id_93c6bc09
+random-id-b19a5690-a478-4a64-8ca0-d8ae51a3cf58,0.148,0.148,Morales Meseguer Hospital,True,2350,2744,generated_id_fa4f581a
+random-id-1dcb315f-c8f2-4ed6-bf1f-6fe1cde77439,0.148,0.148,Morales Meseguer Hospital,True,2206,2547,generated_id_4bb781d3
+random-id-15bb4614-5e82-483e-bfee-02585d3f9dfb,0.148,0.148,Morales Meseguer Hospital,True,2350,2715,generated_id_c2e82ed8
+random-id-277e175d-f072-4fc2-ad14-f1be82d05bc2,0.148,0.148,Morales Meseguer Hospital,True,2635,2751,generated_id_9b35b912
+random-id-75b57363-c3c8-4c36-9322-714f965d4e23,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_77145eff
+random-id-1d00c662-d881-4662-aae1-efd3e021a9ab,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_0c1637d1
+random-id-82380633-bdbe-479c-8bb2-ea020f1704ae,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_d1d21b4e
+random-id-926e6cf7-9104-449a-ab54-6dc173aae5e3,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_6dbc6791
+random-id-97f62270-a3f3-4a76-8108-5073685a488e,0.15,0.15,Morales Meseguer Hospital,True,2336,2373,generated_id_ef37d524
+random-id-4c795207-81a6-4bba-ac96-b59cc31ca19c,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_4cf4e346
+random-id-b5dbdb0e-a898-4eae-b885-7040c13d8775,0.15,0.15,Morales Meseguer Hospital,True,2204,2836,generated_id_34b1ddac
+random-id-01f9fc91-a0b7-4574-b044-34ff01e0a860,0.148,0.148,Morales Meseguer Hospital,True,2350,2744,generated_id_f1a78bdf
+random-id-d2b2cadd-5652-4245-9a34-c6be8d20a3ca,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_099629c8
+random-id-b4b806ad-fd01-421a-b1d3-d8ba12017b37,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_0cd9138d
+random-id-20340d1a-81ab-4e1f-92b0-e406c54446c1,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_4301de48
+random-id-e64e307a-6ef2-4e0d-8c6b-d377a20e8346,0.14806397,0.14806397,Morales Meseguer Hospital,True,2350,2861,generated_id_51e44cf7
+random-id-abca9e7d-085e-42c7-b472-fbc97a403674,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_7b4bc299
+random-id-56714745-a920-40a8-8178-445307419f5d,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_a152d184
+random-id-3b1796c4-31c9-46e4-b787-a74f8d68be20,0.15,0.15,Morales Meseguer Hospital,True,2300,2812,generated_id_be28b5fb
+random-id-d3b654a2-0765-4e3e-824b-a464625d4b31,0.15,0.15,Morales Meseguer Hospital,True,1963,2836,generated_id_d25434ce
+random-id-1092bd27-4c54-41b3-8cb2-2af608a674f9,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_1e1af071
+random-id-c593791d-1898-4c83-9aba-55694cb160d8,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_5b9cf914
+random-id-70180ebc-1c2d-4a6e-b337-d2bf3f6cf042,0.15,0.15,Morales Meseguer Hospital,True,2336,2752,generated_id_2e3744e0
+random-id-bb308416-eb7f-403f-9ebc-d23bfa69b84d,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_d33b2841
+random-id-48b58693-81ea-481f-98f5-712bb3f0a321,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_bb21d82b
+random-id-7575ccfe-bb3e-4c49-95c0-6094942dfe4a,0.148,0.148,Morales Meseguer Hospital,True,2330,2307,generated_id_b2bd0c4a
+random-id-9197a9bc-1ff5-4ef9-ade0-c46f57ab27c3,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_caa3ac7a
+random-id-06d393d9-1300-47b3-a3bd-d2aee8215b59,0.148,0.148,Morales Meseguer Hospital,True,2350,2565,generated_id_e44fd851
+random-id-3c4c0804-aad3-484a-a837-0debc878794f,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_d81e4660
+random-id-e85c27d1-1f28-4b4a-a163-e1bb55fe8117,0.148,0.148,Morales Meseguer Hospital,True,2350,2618,generated_id_841c18cf
+random-id-37e9b125-a591-4cdb-b78e-321ddc0e5ca6,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_084ef629
+random-id-0d25e8b8-f0ff-4a91-9079-1729a7731653,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_f0f556c5
+random-id-d2434d80-68cc-4bc7-99c4-3a3a6c4d96f0,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_be64bddb
+random-id-c1916e6d-e01f-480e-8039-717d4f290798,0.148,0.148,Morales Meseguer Hospital,True,2350,2777,generated_id_ea3b3193
+random-id-0f01103b-9256-4643-8e8f-6bb843f53f49,0.148,0.148,Morales Meseguer Hospital,True,2350,2755,generated_id_9af2689d
+random-id-6519e1d0-cd3e-4b51-992e-121fcadf7e71,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_2cb1686f
+random-id-01d0bc2d-8e49-480f-b234-bb97c7f9e746,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_2c9040f4
+random-id-625baddb-7614-4dc9-a1df-3a93121028b2,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_69c4705b
+random-id-64e1cbb5-109d-47f6-9983-0fd7a8e04ad7,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_2e3744e0
+random-id-df72e199-a113-4727-a954-66503fdce288,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_ec7d5d2f
+random-id-5e728666-6816-4717-952a-0be1fdb178ae,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_525c7a24
+random-id-0e8dd639-45bb-4421-991e-2d3d420c318f,0.15001616,0.15001616,Morales Meseguer Hospital,True,2320,2176,generated_id_abac702b
+random-id-261ca52c-9921-4169-9854-585c5d0a6d3c,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_6e1110b9
+random-id-bc71b824-4e3a-4f93-9da8-1389f918e7a8,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_43eb262c
+random-id-44586ca3-af43-412e-8f2b-75cc984f6844,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_63d11a66
+random-id-d921d698-d3be-4e19-ac9d-2b0a36194045,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_acaddfd0
+random-id-42d4f2df-97af-4d62-8263-62a9a1e85ba5,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_27dd1e23
+random-id-d5f78dfa-4c06-468f-b100-645a63f4f827,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_b904f041
+random-id-35c21cc4-16cf-47d7-9a85-6cd3cdf69366,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_6b4eca54
+random-id-60c697f6-2a5b-4500-872e-f3bb88871915,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_36b47be5
+random-id-d8e9e45f-ff66-4eda-a0a6-6e4077f48e5f,0.148,0.148,Morales Meseguer Hospital,True,2244,2237,generated_id_065f49d2
+random-id-c7bd9ff2-9a30-4785-8918-a19769692b95,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_96c08170
+random-id-3edfe50a-77b3-44b1-98f7-cd6bf1bfb670,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_64676918
+random-id-a6489094-176b-4233-8d4c-71e41a843119,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_5b1f102b
+random-id-2e25ab1f-27be-4a19-96d4-9b825bc788c9,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_07feab41
+random-id-ae308bce-560b-42ec-8d97-79f94f89a034,0.148,0.148,Morales Meseguer Hospital,True,2058,2362,generated_id_0a9a3f6e
+random-id-b9b4e709-ebc7-4bf4-b004-548339c1b81c,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_56063689
+random-id-de96b8e3-5109-4ba3-90fd-01affc175ade,0.15,0.15,Morales Meseguer Hospital,True,2276,2512,generated_id_b81e2ac2
+random-id-27044ef2-0260-4100-ae88-80fa98c7b0df,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_db3c20c3
+random-id-40394627-10eb-4c94-a815-037001cc427c,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_ec73b875
+random-id-cb6f4935-c618-4fff-a237-ccf26ed71258,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_9a691745
+random-id-89e52a70-8e32-4e23-9851-cfd5bd62c1d0,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_8bf1d36c
+random-id-568eb7bf-a9b9-4f4d-910b-1f80c5ded6ce,0.15,0.15,Morales Meseguer Hospital,True,2336,2836,generated_id_5030e797
+random-id-31db525d-f85b-4282-a2dc-14cf1baab1c1,0.148,0.148,Morales Meseguer Hospital,True,2350,2531,generated_id_00289d1e
+random-id-cfb22dc0-0794-4e35-9dac-1c5af8fd56e5,0.148,0.148,Morales Meseguer Hospital,True,2254,2866,generated_id_87bdbbfe
+random-id-03775b61-cb57-4478-8b21-2b7ce4a66421,0.148,0.148,Morales Meseguer Hospital,True,2350,2866,generated_id_eab0ca68
+random-id-22be5d12-c2d5-4065-9e5a-f459f86ee49e,0.139,0.139,Technical University of Munich,True,2517,2877,generated_id_93da3d33
+random-id-10d86371-1d4e-438a-9820-d690b9534218,0.139,0.139,Technical University of Munich,True,2517,2618,generated_id_70227316
+random-id-6c1cd918-bcee-4b2b-abdc-e20d098f558a,0.139,0.139,Technical University of Munich,True,2517,2589,generated_id_38d4818e
+random-id-1dca5e0b-2712-482a-b330-43cdb0d91505,0.139,0.139,Technical University of Munich,True,2517,2920,generated_id_ae240c32
+random-id-31033753-f3a5-432a-8101-b0b05620a1a4,0.139,0.139,Technical University of Munich,True,2517,2964,generated_id_e326e322
+random-id-fe2a3635-58fd-4555-88bd-c5525c634ba3,0.139,0.139,Technical University of Munich,True,2517,2863,generated_id_c30bb07b
+random-id-d38acd41-513a-431d-aece-2bd521207500,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_19b49ab3
+random-id-648539e0-f3ef-4792-a8e8-8af86f03ab04,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_aa9f7e8e
+random-id-a7e083ac-608c-4cbd-857a-f43a74baed23,0.139,0.139,Technical University of Munich,True,2517,2712,generated_id_d5474344
+random-id-fd30023a-fc78-49d4-9d52-2d4635d5d434,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_1606e5b1
+random-id-ef23a177-07f8-4612-b4a6-ade6ce9a0d98,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_fcf46945
+random-id-bfa83dfc-b189-4478-9616-9d1ff3606483,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_63cfc793
+random-id-21b16e4a-ed1c-4722-bcfa-9f40bbc4ae93,0.144,0.144,Technical University of Munich,True,2372,2902,generated_id_d94764c1
+random-id-1b97fceb-c18a-431e-8c9d-aa2b903c2e0d,0.139,0.139,Technical University of Munich,True,2517,2647,generated_id_5500d106
+random-id-a7a657a8-c7dd-453d-b939-e220975229aa,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_876fdec7
+random-id-13792c9a-cabe-419b-95f6-073fe6fa75bd,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_93d51ec1
+random-id-070a4502-0196-4015-9995-cc4e04fb2f00,0.139,0.139,Technical University of Munich,True,2517,2841,generated_id_39a25d3a
+random-id-3589dd1c-2576-4722-bffc-7b225c6fb2d6,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_886e73d9
+random-id-1358619d-1957-4559-92e6-c97c66c4806b,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_af6a3229
+random-id-98b4e423-dc46-4577-8139-fbb162492bac,0.139,0.139,Technical University of Munich,True,2489,3028,generated_id_41f1253f
+random-id-3f2464f2-8fdc-41db-93eb-c74eb3820399,0.139,0.139,Technical University of Munich,True,2517,2784,generated_id_eb39e33d
+random-id-994d2774-9a3c-4cc8-95c6-a46b1197c858,0.139,0.139,Technical University of Munich,True,2517,2733,generated_id_44025815
+random-id-0f3a7a53-09f2-418b-a70f-33ec6a99c7dc,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_8c6a7e82
+random-id-f9b91e19-3bf5-4f59-8974-26878036b6ae,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_9749e215
+random-id-64718903-ef7b-4d24-96ca-d5d29bac9f98,0.139,0.139,Technical University of Munich,True,2517,2992,generated_id_8b1131e2
+random-id-d86f42c3-158a-4882-9eda-4d11f280a110,0.139,0.139,Technical University of Munich,True,2517,2899,generated_id_4d4e7a4c
+random-id-47d94149-0ded-46b5-8ab8-1945d1c4dea8,0.139,0.139,Technical University of Munich,True,2517,2654,generated_id_fd09c889
+random-id-2169ac97-8fa3-4972-8be6-e67c33979f29,0.139,0.139,Technical University of Munich,True,2474,2942,generated_id_13e4c0fe
+random-id-d0b70339-74f4-4f29-b47d-ec69565744f3,0.139,0.139,Technical University of Munich,True,2158,2935,generated_id_aca1f389
+random-id-283c93a3-4b86-4596-9fb5-35535f34bb7f,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_b600dcf0
+random-id-75255f9f-e5ec-4bd9-82d7-229d53624e0c,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_f45f96e6
+random-id-87266987-d69a-422f-87b6-143fb53a6173,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_f38c39c6
+random-id-52892c5a-1fe8-4a10-ad4b-34f408f1adf9,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_61e0b010
+random-id-3436f897-620f-4cd9-8bdc-faf78ce98d38,0.139,0.139,Technical University of Munich,True,2489,2733,generated_id_2d081fc1
+random-id-281559ae-5e49-4154-b21e-7f354497a180,0.139,0.139,Technical University of Munich,True,2374,2733,generated_id_5c734cb5
+random-id-6ec2c6ef-021a-4053-9e9f-3ce50afe60b1,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_22629b26
+random-id-665423bb-50a1-4506-816f-5254d0d1222f,0.139,0.139,Technical University of Munich,True,2517,2669,generated_id_09b3feb4
+random-id-1f43f5a6-cf95-4677-a9af-bf37b7daafe9,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_9c61e47d
+random-id-3310d816-b750-4d94-b603-aeb4b8bce547,0.139,0.139,Technical University of Munich,True,2517,2208,generated_id_f49f429e
+random-id-ff6edd6b-d8f5-47a5-8d85-302fc36496ff,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_91f41686
+random-id-6bd68261-27fd-4c49-8c6c-9ca81c148cfd,0.139,0.139,Technical University of Munich,True,2517,2971,generated_id_13a32d68
+random-id-7477c0b3-a39a-4aff-b0a0-c47129b3d002,0.139,0.139,Technical University of Munich,True,2517,2769,generated_id_8d5a3d80
+random-id-6e879749-151c-4eaf-be21-aee7a9ea04b3,0.139,0.139,Technical University of Munich,True,2517,2978,generated_id_c7f14deb
+random-id-12a0449e-b871-42fe-a7e6-be3a012420a0,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_dc989f35
+random-id-12439404-ab1d-479a-861a-9a47eb74775a,0.139,0.139,Technical University of Munich,True,2517,2676,generated_id_610ad430
+random-id-a6cf1634-5edc-4bd5-9377-97bd9466e927,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_d8103beb
+random-id-53cc620e-2dbe-476e-a304-651053c25d35,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_a367b6d9
+random-id-43f21c75-8bda-4973-993d-08fbe61f82c3,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_c5630828
+random-id-f38c3528-eb8b-40c2-915f-70ae4e1d8c40,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_183d571c
+random-id-e7eb7ddb-0076-4cef-bf95-4def572610bc,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_95e47246
+random-id-4ac1ec8b-08db-4d5f-8779-b92c3918d24b,0.139,0.139,Technical University of Munich,True,3028,2517,generated_id_ba901416
+random-id-afa1d436-6d8c-4d8a-a9e2-c2c2d3ed16d5,0.139,0.139,Technical University of Munich,True,2517,2985,generated_id_3b538595
+random-id-47ce6da9-3a86-4ec8-97b1-4296ee87decf,0.139,0.139,Technical University of Munich,True,2517,2805,generated_id_29765da1
+random-id-1324906b-2106-41a6-94a4-41a27afb3f57,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_68ed151b
+random-id-432a0ec8-55c0-4373-a343-33a230133ce4,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_2a9eb405
+random-id-1c2ab564-129a-4ba1-a366-f777734a238d,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_7dd9f5eb
+random-id-354e4ef0-7eb9-449e-8822-6aaf1f977e23,0.139,0.139,Technical University of Munich,True,2517,2978,generated_id_d39e8478
+random-id-2b9dcd57-f318-49e0-9372-4d09af8a60e7,0.139,0.139,Technical University of Munich,True,2517,2769,generated_id_e02c68fd
+random-id-e2f98721-7c64-486f-b8f8-a5501887475b,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_9e142369
+random-id-b16d317c-6445-460d-8622-ff778c3fef21,0.139,0.139,Technical University of Munich,True,2352,3028,generated_id_7cb9eedc
+random-id-f7de2318-dafb-46ab-b1a4-f9593e724b78,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_d76907db
+random-id-9790c968-cd0f-4a4d-af0d-58e38a85bcd4,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_5f06f96f
+random-id-770b69dd-dafe-4d65-952c-fe60ed1e8c5c,0.139,0.139,Technical University of Munich,True,2517,2805,generated_id_b20f08c4
+random-id-9b79f9be-d3a3-4d08-9222-d51a053de08a,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_de90c1cf
+random-id-4eecda03-f46a-435b-a804-e7475593ae45,0.139,0.139,Technical University of Munich,True,2330,2791,generated_id_3cd0d80e
+random-id-8604ad58-c872-46d2-b2c1-f83dc85aa95c,0.139,0.139,Technical University of Munich,True,2517,2791,generated_id_aa8d7183
+random-id-d327c684-6d80-406e-9a8c-2ad3dd2d47de,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_1a962607
+random-id-4b35e7be-bd8e-4b20-ac73-22cfd85ff93e,0.139,0.139,Technical University of Munich,True,2395,2892,generated_id_261b3244
+random-id-205c9538-565e-4015-84e0-3887a85e0ff9,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_6b736382
+random-id-e632153b-cc73-4eee-8c35-0cf0dcbaa4fc,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_da9585b9
+random-id-4b676547-b807-4f3b-9134-e276b42737ed,0.139,0.139,Technical University of Munich,True,2381,2618,generated_id_6e6d3021
+random-id-256b9bf9-9ce3-4f3d-828a-54762633cfb0,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_6d6f0001
+random-id-ca9133b6-b069-492b-9601-33d70f7643f4,0.139,0.139,Technical University of Munich,True,2410,3028,generated_id_a3af14c5
+random-id-c82e2576-86a5-489a-8f13-326a307e3491,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_9d1c67b2
+random-id-562426ae-517b-400c-bfea-557d81dd2004,0.139,0.139,Technical University of Munich,True,2517,2604,generated_id_9acf2b01
+random-id-d257172c-6190-4749-a29b-aa53548dcf74,0.139,0.139,Technical University of Munich,True,2517,2834,generated_id_8e4f895e
+random-id-dcc9ae0a-c09b-438d-9176-9d34b1727424,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_73889f3c
+random-id-b45074eb-a475-40a2-9387-57fa39197b8b,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_92221ea3
+random-id-f37d72e7-27d0-478f-a65d-ae18eb0c00cb,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_afddb9b3
+random-id-f3937e20-5c5a-477a-8e2e-51bd41ca95a9,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_b0cf8788
+random-id-ce8d2b41-3b9a-476a-a2a3-58fe9123309b,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_a259da89
+random-id-e7a5b8f1-f2d3-48e5-b424-51bacb2ef779,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_11211e01
+random-id-b42ff2e1-247a-446a-a5ae-c8fdb39be393,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_eccdcd85
+random-id-5020f622-35cc-47e2-843a-51d8b3a2ac3c,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_729bb74e
+random-id-d5cfccd4-5271-44f2-943d-bfffe750f145,0.139,0.139,Technical University of Munich,True,2517,2971,generated_id_91d9357c
+random-id-2e22a69f-369b-4cf4-9e13-12ec06627143,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_a5ef4b6c
+random-id-933aba8f-78bd-4354-a3e9-2281a3a6811a,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_480e28d6
+random-id-44152eab-a881-45da-9c82-2fc594b79a5d,0.139,0.139,Technical University of Munich,True,2453,3028,generated_id_84d03ae9
+random-id-8204b015-8845-4501-8f3d-9fd5fa9a954d,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_46a96351
+random-id-7b0a4d00-ae8d-4468-96a5-1821aca127f8,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_e45d3833
+random-id-d7fe3d8a-d9ac-4000-9101-5500044c06a2,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_e9fd047d
+random-id-7baaea03-018b-49bb-84c7-f1c509e42dc0,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_ffb2eb88
+random-id-b951cd5f-8a35-4e05-92d3-bd04525585c7,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_06f3b9a9
+random-id-419a9eca-d969-4de1-a2b8-86ac2189cb42,0.139,0.139,Technical University of Munich,True,2517,2928,generated_id_71d9a13b
+random-id-59ac19d9-aed6-432c-830d-673b54ab034a,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_0e01a70f
+random-id-5c698bbc-db1a-4a7a-9d6d-84f33ed9abdd,0.139,0.139,Technical University of Munich,True,2517,2561,generated_id_985fd05c
+random-id-a2802967-bcd6-4b39-b125-def516a4a04b,0.139,0.139,Technical University of Munich,True,2517,2489,generated_id_1c53d381
+random-id-89f570fa-7af8-4481-a598-ebc9b8b74a7a,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_57da383d
+random-id-05699d7e-dd34-45b0-8500-92058bd9f3e7,0.139,0.139,Technical University of Munich,True,2517,3028,generated_id_a402033b
+random-id-834b0887-7525-4d93-a111-eae576c2ee22,0.139,0.139,Technical University of Munich,True,2395,2992,generated_id_934169b9
+random-id-466055bf-5472-4531-bdd2-a2bba3299432,0.125,0.125,Cedars-Sinai,True,2586,3042,generated_id_ad56bf20
+random-id-8c867ec0-9a75-4c6a-9b5c-e29f95943bef,0.125,0.125,Cedars-Sinai,True,3408,2800,generated_id_0be721e0
+random-id-e039f247-a3cc-4621-a71d-26d0cbad0b91,0.125,0.125,Cedars-Sinai,True,2706,2850,generated_id_9b05c6da
+random-id-a7fe1cc7-aaa1-4a8d-baac-1b57554635da,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_3354701e
+random-id-fc7d30b7-85ba-44ae-aa3d-3e2c701eaab8,0.125,0.125,Cedars-Sinai,True,2800,3002,generated_id_e9ed52d8
+random-id-a92a421c-2ffb-40ed-ab7b-9025d8549cf2,0.125,0.125,Cedars-Sinai,True,2800,3344,generated_id_6b662500
+random-id-8a68b722-7e20-440f-acc7-361010a86800,0.125,0.125,Cedars-Sinai,True,2800,2806,generated_id_a056c9d5
+random-id-b3588d24-2e07-4cdb-acbe-afd7308ac5ef,0.125,0.125,Cedars-Sinai,True,2800,3376,generated_id_24e09cde
+random-id-79743cfb-31c4-49cb-973f-a023f508a139,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_9387cc73
+random-id-ead2ecbd-8af6-447c-8e36-07888bfa826f,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_33577137
+random-id-b70bb9fb-e59b-4de7-b40d-8cd68cd71612,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_11005bee
+random-id-c04232dc-a921-44f6-bb62-1e80fc606469,0.139,0.139,Cedars-Sinai,True,2516,3027,generated_id_e83bdcf7
+random-id-d35a80f5-2334-4945-9132-bdfbc61dd14d,0.139,0.139,Cedars-Sinai,True,2352,2798,generated_id_c64d1240
+random-id-10895ee8-59b1-4bf5-b492-e167804e9018,0.125,0.125,Cedars-Sinai,True,2800,3248,generated_id_3b9e7bed
+random-id-76117045-5e82-40ca-9ef0-e7a93d709ddb,0.125,0.125,Cedars-Sinai,True,2672,3408,generated_id_750d1198
+random-id-81282024-9e80-46dd-88c9-cb3f70dd932e,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_5df70515
+random-id-1c8474cf-fd35-4329-b4a6-1dd9f21dca55,0.125,0.125,Cedars-Sinai,True,2920,2689,generated_id_47fee88d
+random-id-b74b7637-0def-401a-a812-e15c7a59b10d,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_79b9be73
+random-id-f3a9f64e-3037-4a59-98e7-011742b1cba4,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_249c91ca
+random-id-cca9159e-a64c-41c0-aead-395bc537e62a,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_f12aa3a9
+random-id-80db69ac-2fb2-439f-9afa-644e3600d377,0.125,0.125,Cedars-Sinai,True,2760,3200,generated_id_771606f5
+random-id-7b1d28a8-77db-4724-ad0a-274c593c1e27,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_dc14fb02
+random-id-16f94d3d-5377-4929-b3ee-3aea0545c8e1,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_f72b0686
+random-id-63eab63c-7aa5-4a01-9694-4768a1c9113b,0.125,0.125,Cedars-Sinai,True,2800,2830,generated_id_03718c87
+random-id-a2a7b6bf-2409-4e39-a085-0f371d290d3a,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_8f00c22b
+random-id-a5053410-8597-46da-8577-88f9d60c9d52,0.125,0.125,Cedars-Sinai,True,2800,2958,generated_id_915d2369
+random-id-25f44003-1144-4b93-9649-4590848fdda2,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_db44e63c
+random-id-a74b8f5f-457b-4860-9b0a-4950315f97c6,0.139,0.139,Cedars-Sinai,True,2516,3027,generated_id_b4f33f6f
+random-id-4d166066-56ef-4763-88e5-a1cad70e54f1,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_80a2b4ae
+random-id-74644e6b-b6f7-41d7-b595-5ed435b756fa,0.139,0.139,Cedars-Sinai,True,2517,3028,generated_id_7bbd22ec
+random-id-0d5e087d-6068-41a2-9a3b-6187ff7b95eb,0.139,0.139,Cedars-Sinai,True,2518,3032,generated_id_c6ba794c
+random-id-b242ba68-574b-4e7d-a88f-6a85c39f2842,0.139,0.139,Cedars-Sinai,True,2517,2985,generated_id_54e0251c
+random-id-64d8c502-9802-4caa-964a-940dfbde0e60,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_ec16e4ed
+random-id-b1b36317-b13f-4b74-adc8-412fe96ed790,0.139,0.139,Cedars-Sinai,True,2516,3027,generated_id_b899f128
+random-id-e36f436f-2870-40e7-bef0-9d99f60c3249,0.125,0.125,Cedars-Sinai,True,3408,2800,generated_id_67112608
+random-id-b1077eb9-10b5-4886-899d-06605e144d91,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_42fcdb2d
+random-id-50e2de3e-a194-4b52-a1bb-eb281c9c17f4,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_fb0c9445
+random-id-2a77b9e7-d14e-434e-8708-e96dfc19c055,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_84b23a7d
+random-id-f9a0a64d-1819-435d-a029-dbe749c163b3,0.125,0.125,Cedars-Sinai,True,3408,2800,generated_id_69eac243
+random-id-8fa83c26-62fc-4b88-89c1-35d710cb3e9d,0.125,0.125,Cedars-Sinai,True,2282,2737,generated_id_c2ad875d
+random-id-4105b4c8-d9cc-4b9d-8ee4-eeaef7d8fd00,0.125,0.125,Cedars-Sinai,True,2800,3121,generated_id_5c02aa39
+random-id-1e6f31a9-8946-47eb-ab84-237d24120862,0.125,0.125,Cedars-Sinai,True,2040,2886,generated_id_d34e509f
+random-id-57edbb83-e09b-4128-8c9f-d1f5c4a8809d,0.125,0.125,Cedars-Sinai,True,2800,3192,generated_id_15cb2fb4
+random-id-f0cde291-fb6a-46fc-88d7-832959aaaa28,0.125,0.125,Cedars-Sinai,True,3328,3053,generated_id_af518c6b
+random-id-984ca3ae-a618-431a-827b-db89d3b96ad4,0.139,0.139,Cedars-Sinai,True,2518,3007,generated_id_fbcec52d
+random-id-2d0a7070-9bb2-456a-8281-7c3770c3d33a,0.125,0.125,Cedars-Sinai,True,2800,3056,generated_id_611e8f7d
+random-id-6620350c-1639-4b2c-9063-c5682f296bcc,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_ba5f1998
+random-id-349d8f6e-797f-4d08-9007-435fe607a9aa,0.125,0.125,Cedars-Sinai,True,3408,2800,generated_id_c30acbd6
+random-id-02691bd6-ce70-43f1-a8bf-c11764e1c3ff,0.125,0.125,Cedars-Sinai,True,2800,2794,generated_id_c9f98cbd
+random-id-b9731ecc-3677-41a3-8e39-b3dfa781b8e9,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_4268fa9f
+random-id-0260d18e-7352-40ba-b4b8-4337ba0c9fa7,0.139,0.139,Cedars-Sinai,True,2517,3028,generated_id_de9c6465
+random-id-d4f67464-8abc-42d9-927d-3596609d18d2,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_56d82bcc
+random-id-257f308a-d104-49b9-bb50-9416c73c76c3,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_189acbc5
+random-id-8f701f8e-0d89-47a0-a36c-3edcb5aed372,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_9d5731ca
+random-id-5c8c1786-0f60-48b1-8824-50d5dab05cfb,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_f301e9a8
+random-id-2ddcbb5b-4a4c-4551-a1ec-e9b377597190,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_7680e1f1
+random-id-54de4991-425a-4d60-a842-7d6dee2625fc,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_2e20dcaf
+random-id-2cea0db8-ced1-4ca5-a851-fd1d07c3cdd4,0.125,0.125,Cedars-Sinai,True,2371,2878,generated_id_79a6ab08
+random-id-411dd067-eef7-4a81-bc54-e051378208b0,0.125,0.125,Cedars-Sinai,True,3408,2800,generated_id_b9afa66a
+random-id-4358e263-00f3-40cd-ab22-30b8ab1df673,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_73da3f35
+random-id-667b4c23-e51d-4434-82f7-d5c18632cd00,0.125,0.125,Cedars-Sinai,True,2689,2667,generated_id_29cc76d1
+random-id-5d5cc5ce-2fee-4086-b2ce-033fcc4466b0,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_0780e895
+random-id-55ea473c-a008-4ed4-94d0-816429715e68,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_4c570ca2
+random-id-3ef3a484-b644-4121-b41d-5558f5853d35,0.125,0.125,Cedars-Sinai,True,2800,3159,generated_id_7875d482
+random-id-55ce9509-b8dc-4b31-b371-cc24b328ba9a,0.125,0.125,Cedars-Sinai,True,2283,3101,generated_id_1797dd17
+random-id-f5cf3111-56b1-4044-aa08-cfc82809d46d,0.125,0.125,Cedars-Sinai,True,2078,3408,generated_id_07e7afbe
+random-id-5e57c2da-5bea-462d-9721-b21f858d28e1,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_20743a5a
+random-id-6775a727-4e3f-498e-852f-611fa1fae00b,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_e1c21e7b
+random-id-56f928d2-6d6b-49dd-ae11-7617d16d88fa,0.125,0.125,Cedars-Sinai,True,2800,3320,generated_id_bc0c7274
+random-id-634846c3-1312-41e5-926c-a13370598db3,0.125,0.125,Cedars-Sinai,True,2570,3408,generated_id_a250504e
+random-id-ab661bee-ae7c-4e9a-a844-62a30ba527d5,0.125,0.125,Cedars-Sinai,True,2800,2982,generated_id_b9b44fa7
+random-id-e0d91ccb-9cf0-4c62-bb29-367ff1c267fd,0.125,0.125,Cedars-Sinai,True,3233,2966,generated_id_4c5ebe21
+random-id-b00921d5-b3c2-402a-9e27-974f1a5e7b92,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_7c7a17fd
+random-id-19384458-c5f1-4e71-8416-bc46851ca264,0.125,0.125,Cedars-Sinai,True,2551,3095,generated_id_f81aaf98
+random-id-bde544bb-239f-46d0-984a-d6bbe4094b87,0.125,0.125,Cedars-Sinai,True,2725,2942,generated_id_43e1c0aa
+random-id-9af3e10a-fc02-49e5-9b48-57f9398b11be,0.125,0.125,Cedars-Sinai,True,2680,3408,generated_id_f6ebe3b7
+random-id-0a043859-585d-4296-9cee-cf29c8c6fe9d,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_bf97b7f3
+random-id-d1a45ee1-2adc-4c71-8394-2d3c8e9903e5,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_e4a4998c
+random-id-0b091a55-2bd8-423a-8b75-5664527f3c52,0.125,0.125,Cedars-Sinai,True,2800,3288,generated_id_58335600
+random-id-373d99bc-3b17-4f8c-8c68-26384fe3d694,0.139,0.139,Cedars-Sinai,True,2517,2820,generated_id_f2e5946a
+random-id-45f59036-96c0-44b8-bd50-fee36a7cec45,0.125,0.125,Cedars-Sinai,True,2800,3336,generated_id_a38365fe
+random-id-167357e2-1d5d-486e-b1dc-fe6b75a8bd2a,0.125,0.125,Cedars-Sinai,True,2697,3218,generated_id_e5cff801
+random-id-18a91bfd-a667-4f55-95cd-5793faccc8a8,0.125,0.125,Cedars-Sinai,True,3408,2800,generated_id_64ab8a56
+random-id-70154d1e-d8cb-4321-a71c-589c4f76ec16,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_1ea72b1a
+random-id-fb8487c3-1659-4264-8c5c-95df7ad26126,0.125,0.125,Cedars-Sinai,True,2610,2894,generated_id_d4baa016
+random-id-39954328-c1dd-4424-b087-ce4dcb2a1f4e,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_d6de2f4b
+random-id-a63c3617-7041-4934-9af0-baf398f50949,0.139,0.139,Cedars-Sinai,True,2496,2611,generated_id_93d28fa7
+random-id-1793c6d1-c174-452a-bac5-54d31bfe2111,0.125,0.125,Cedars-Sinai,True,2800,3360,generated_id_c0863a74
+random-id-175076bd-5816-4ddc-9da4-21ac44d4f190,0.125,0.125,Cedars-Sinai,True,2800,3024,generated_id_f21e2878
+random-id-30af4a6d-39f4-48a5-8742-926ba7c88af5,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_4cc65d59
+random-id-498843e5-6936-4163-84ba-9dcad37b5bd3,0.139,0.139,Cedars-Sinai,True,2499,3210,generated_id_019e5373
+random-id-e5038c50-35d4-4593-9a11-0f906cf86a74,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_6a728b52
+random-id-190e034d-d452-41ae-a5d1-640637b87c0b,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_40ede3df
+random-id-e8315513-bdb8-4e3f-a69a-0fe3a7356b88,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_329a5983
+random-id-bd6e01be-6028-40e3-8ee3-75cb79c7491b,0.125,0.125,Cedars-Sinai,True,2800,3344,generated_id_53ef1a9d
+random-id-a579e3e1-53c2-4314-967d-5446ea5f7000,0.125,0.125,Cedars-Sinai,True,2920,2689,generated_id_fffead16
+random-id-2e1ca2d5-e25e-4ff6-b464-37ce94c54011,0.139,0.139,Cedars-Sinai,True,2520,2831,generated_id_369dfd43
+random-id-8ee672b9-1073-4eb5-aa39-2501a85cf024,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_5158bf9f
+random-id-7205f97e-8f97-4c3b-8d36-7643d57dcf6f,0.125,0.125,Cedars-Sinai,True,2800,3408,generated_id_9b856a53
+random-id-c3663fc2-5580-49d2-8f3a-f5ff3e37f5b0,0.125,0.125,Cedars-Sinai,True,2800,3136,generated_id_e9b21289
+random-id-be5af735-2725-406e-93bc-fdc38cdc7b58,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2831,generated_id_86faf7f4
+random-id-2e45aaef-4ed5-4346-ba40-b15086b5409f,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2846,generated_id_8a1a37a0
+random-id-c68f29bd-dd18-4c63-bfec-4ae283cc41c5,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_1ac2cbd1
+random-id-fb7dd582-1079-4234-98ed-b887e972248c,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2829,generated_id_9e7ae748
+random-id-bc056d1f-bc8c-48c0-a169-47b1896dc79c,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_ebcd601f
+random-id-8b8f8f0b-1343-492a-b7ec-ffec07871f6c,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_f77c2b5c
+random-id-ee2eb729-2188-4ef6-8262-8d08efb5e9e3,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_e7265772
+random-id-d2a11b22-73de-4269-bc11-e22080a57dd2,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_6ec1baf9
+random-id-f5d2bebf-c159-4549-b59b-9783f934cf73,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_04357b65
+random-id-110dea02-5c48-40b8-b895-92abfa33af90,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_e5a3a7a8
+random-id-97b2955f-3d1c-4067-a1e5-0b3b334f20a3,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_c33798c5
+random-id-e070086c-7e58-40d3-8125-3bfc26588bfe,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2586,generated_id_bb2e7e28
+random-id-730b4166-9e25-4677-9582-ae91981b1fb3,0.148,0.148,Universitätsklinikum Tübingen,True,2270,2028,generated_id_ba03fc97
+random-id-134cc4b8-f99c-48c2-9f3d-6553f18dc1be,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_bfe20077
+random-id-465fe34c-fe5f-4600-99a9-0c87b5b9eb9f,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_4d50594e
+random-id-84ac86b0-ebc8-4977-aede-466c41ba3b9e,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_2e45910d
+random-id-1de30918-f2c5-47cc-a390-53763f8d4741,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_dfae94ea
+random-id-477395f3-caa0-4e4c-b091-5b30fb1c8395,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_39b081ad
+random-id-91130096-4480-416a-8f96-d5d0da174cbf,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_30223391
+random-id-57e261ae-bd86-4f01-b585-560446219374,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2589,generated_id_8d49701a
+random-id-76452fd4-3700-4cae-8ca6-23f450b4ae86,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2774,generated_id_7c9c30c6
+random-id-e67d756b-7440-460a-a7d4-77984b3c6237,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2846,generated_id_d44c2a61
+random-id-e1f2c476-1172-4aa0-87c1-878920b042ad,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_5fb2cd6a
+random-id-b19a3375-dc41-4331-b197-1b431fe5ed59,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_b697bc94
+random-id-7485f087-0f58-4cae-ac6f-3bedeacaf24d,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2552,generated_id_8fc95e32
+random-id-0d16a029-be16-4867-9c90-74fcfbec21e1,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_4a80c652
+random-id-1f97ff18-c5c0-4e8f-8450-c2fb7fe89171,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_de78eddc
+random-id-4874d0c2-b4a6-487e-9359-a5732eb60bc6,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_5c463aaa
+random-id-486474e1-ec17-4caf-a51b-e2ca7df87ded,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2670,generated_id_c376bc45
+random-id-f7b95493-9549-43c6-9b9a-68c10969eacd,0.15,0.15,Universitätsklinikum Tübingen,True,2272,2800,generated_id_de5c7b1d
+random-id-19fd2af1-a81f-4323-876b-a6eee8c547f6,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_3a73d9c8
+random-id-a444e675-7129-4cfc-8db2-9ab9dd9f9838,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_0f7f0d1f
+random-id-ba5e6fee-5b49-4413-8d98-49865bd7343c,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2582,generated_id_af5dfd57
+random-id-55a6ceab-7d00-489d-9d78-7fdc5d2a2bb0,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_1e7eb1e6
+random-id-75ecd6b3-4ee8-4671-8c72-666afa30c7a6,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_191bfa1a
+random-id-d2ddb308-9e9f-44e5-95f9-8c67e4389fbc,0.148,0.148,Universitätsklinikum Tübingen,True,2106,2783,generated_id_bd851332
+random-id-03be692c-c93c-4a87-bc4b-69063796366e,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_da6c2aa9
+random-id-7d94eeae-1813-4c31-803d-7e074eb0d695,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_612716e0
+random-id-262d44b5-4ff6-4450-ae56-2a4adcc09d71,0.148,0.148,Universitätsklinikum Tübingen,True,2121,2412,generated_id_697b9331
+random-id-1da3a91d-4904-447c-b7d9-ede780fa9266,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2798,generated_id_d6d8d368
+random-id-3ee266dc-1360-4e1c-a2bd-23a634be278c,0.148,0.148,Universitätsklinikum Tübingen,True,2157,2451,generated_id_1db2ad45
+random-id-af7ea757-89e9-4113-b890-d21a5cdb625c,0.148,0.148,Universitätsklinikum Tübingen,True,2221,2231,generated_id_6c3b9457
+random-id-d5f379bf-1af9-46ab-a40f-93be6270fa18,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_17b52e2d
+random-id-e50a2d92-161b-46ef-a8c8-914cf5b93ec5,0.148,0.148,Universitätsklinikum Tübingen,True,2285,2597,generated_id_3ba7eaed
+random-id-f18976a1-2e23-4497-a4f4-8d5ff9070add,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_7b03ce7c
+random-id-951421c0-458a-469a-88b6-2730c8fe8cc4,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_b6e58f6a
+random-id-797178d9-0d83-43a3-a41c-821e9d132a08,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_d74e7063
+random-id-61355583-e378-40a2-a246-14b17ccc471a,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_c9b57bc7
+random-id-06d698bc-0aa7-47d0-a81f-1d68538da54a,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_462a0937
+random-id-ec494864-67eb-4683-9f19-132f8a05d1ed,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_958466d9
+random-id-4b9db1c9-923d-47c5-b5ad-f4d173b48ced,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_44a8cdae
+random-id-aea4c393-9595-449c-8766-3d5594af43fc,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_ca1e1481
+random-id-99a37593-2021-4785-9d7f-873955b1172f,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2846,generated_id_acea693a
+random-id-2d1811e7-6ede-4293-a751-ac9c99c70138,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2790,generated_id_b440c56a
+random-id-2e809313-773f-4c7f-acb4-2cb7c220e485,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_af8bec4b
+random-id-6cf299ce-e1cf-4c0c-8440-59d5eb7b7377,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_179a83ed
+random-id-850b7c4f-5c35-4abe-8b78-2ae35be0eb21,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2846,generated_id_a19dd699
+random-id-eb230c34-cd66-4405-87e5-8d39ec906cf0,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2774,generated_id_85dfb429
+random-id-10e85cbd-c340-4095-bc83-0cb4031f4327,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2792,generated_id_7b336b0c
+random-id-1294b804-69e9-43fc-8c37-f7d53a4299f7,0.148,0.148,Universitätsklinikum Tübingen,True,2297,2320,generated_id_efe0c5f8
+random-id-c0d70672-6515-48ff-a65c-727a8b338b22,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2686,generated_id_37f91529
+random-id-7f1afce4-6182-4d1c-8d89-a3180042fe8e,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_b41ca18b
+random-id-e2daff80-c756-4f57-bf3e-46c7197a8f02,0.148,0.148,Universitätsklinikum Tübingen,True,2303,2636,generated_id_f6efd404
+random-id-c2a9df4f-d38e-4c5c-a2f9-549d76934f9c,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_8a751459
+random-id-5695661d-8edc-4c90-98a9-09142fb5e350,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_2c933379
+random-id-ae40b541-00d9-4679-a565-8f4c9f28dd42,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_f1f1f8cb
+random-id-2769b450-0341-4bc2-b8b5-fcd1d2a33254,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_02c51aa7
+random-id-98849af8-eb7b-468c-868e-60fd904e1750,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2827,generated_id_91096045
+random-id-3367de2a-7eb2-413a-b12f-8708415c674f,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_b408df87
+random-id-43665400-1591-4488-8fee-eead64a3c31e,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_b26f312a
+random-id-7aae0c3e-59b3-41f7-8b4c-1cea8002c47f,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_502d16e3
+random-id-3be90982-d644-4cee-b76d-2285d3e649ee,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2846,generated_id_7b5fa2da
+random-id-6fb75ddf-203d-44ac-b5c8-3b8aa6ac266b,0.148,0.148,Universitätsklinikum Tübingen,True,2313,2493,generated_id_a9d68761
+random-id-df3bf833-88fd-4a7b-995d-f94f1cdee945,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2771,generated_id_82e1e09d
+random-id-ee3139b1-acfc-46fa-a1ea-c1272264de23,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_f8522b05
+random-id-088ddc70-fd48-4865-9d8a-63f83ab06a25,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_84dca61d
+random-id-20462f0f-c00c-41db-9662-93c95e68b7cb,0.15,0.15,Universitätsklinikum Tübingen,True,2272,2800,generated_id_49c4da3a
+random-id-2b4b3e53-4cd1-48ff-920d-f4b9bcfdc88c,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2387,generated_id_70476a5e
+random-id-e550ea63-8e5a-4733-93b8-c98b72a272e0,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2356,generated_id_08a4dc25
+random-id-08cca3d0-43ef-4c51-9b51-2cabc95f6caf,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_27e9b5d2
+random-id-174e9308-6e59-47c9-85f8-5a03ced82308,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_2f8ae355
+random-id-5388e127-2fd0-4197-98fb-ef6c918c9a18,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2846,generated_id_c4a6d348
+random-id-c9241b70-bdde-4a4f-a108-2f442af1f413,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2537,generated_id_dd0720a2
+random-id-190ab265-0716-43f5-ad88-24f07f5e7440,0.148,0.148,Universitätsklinikum Tübingen,True,2248,2446,generated_id_5d8bfe30
+random-id-e95df1ce-086e-4a37-9db0-3cb64e9131a0,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_95565c0a
+random-id-2f0a43ab-049a-4ab8-926e-dea9701b7fab,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_7f14596e
+random-id-1e45038a-fa3a-48b5-91cc-a096766814a2,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2819,generated_id_f8769b29
+random-id-c6ea8d0d-bc52-4f0f-ac61-0b9b06e5827e,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_23696798
+random-id-07deb5e3-a23a-4e12-bc5c-7720310d101f,0.15,0.15,Universitätsklinikum Tübingen,True,2272,2800,generated_id_fda31c5a
+random-id-191a61d3-e8a5-43d1-b0a6-92514743e1b9,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_68812b21
+random-id-60af2621-009f-42b2-8ed7-03f4b156b072,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_7aa721f6
+random-id-e00a0bd2-c7da-4b03-81c1-3e3e0f7eeca0,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2661,generated_id_27c59784
+random-id-efd92cea-470d-46ed-ac90-ce0e58b582f8,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_8b2af0b4
+random-id-a7c03d0c-f144-42af-bd51-8809832da959,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_040fbf45
+random-id-5d7b7471-3169-47b4-b3ad-d4e8ee1024b0,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_ef3338d1
+random-id-e560f965-8b26-4c64-9f6b-95004f824b8f,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_7054769d
+random-id-a8b9a3e2-45db-4547-8dcc-5cfb7fcd7171,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_89d71554
+random-id-dc25c7ee-68c8-492a-be23-b67147cade59,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_9bede8bf
+random-id-1a1ef4f5-dc2e-496b-be34-310f7fc2a802,0.148,0.148,Universitätsklinikum Tübingen,True,2330,2846,generated_id_534a66f9
+random-id-f66c95c4-e2b4-4ce1-a7fe-da3a8141851b,0.1,0.1,Universitätsklinikum Tübingen,True,3408,4200,generated_id_069567fb
+random-id-c5c1ab89-c856-4d68-868a-423ca3810b3e,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_ad48ff99
+random-id-098d1da3-6bb7-435f-b24c-31780c76bf13,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_4e074085
+random-id-7c9eeb78-12dd-4bff-b931-650ec37d9af6,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_b17ef6d1
+random-id-742cdf41-6a09-4d89-9646-91b80af2fa57,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_cd70bea0
+random-id-e5651ba9-1d16-4946-b079-aad69c308926,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_da4ea2a5
+random-id-c2205d7b-0e51-4e79-9f15-4f606b1ba23c,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_73475cb4
+random-id-6c9ae88c-d3fd-4318-a095-b9d1da97d4b1,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_f5ca38f7
+random-id-374e881f-4577-46ef-b3b4-eb50021b23e4,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_7b1a278f
+random-id-ac469355-e954-47e0-aed9-3d10612aceb7,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_349c4120
+random-id-86863ed9-42ca-4e59-bdfc-9668efd6483d,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_81b8a03f
+random-id-d2c1f8cc-aade-443f-adb9-6d1d6fb85b9e,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_6b86b273
+random-id-c6034efc-5bfc-4653-b8aa-1ad2d8f45abb,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_2c624232
+random-id-be0b926b-7e79-499c-b168-39d290fb635b,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_8527a891
+random-id-a7465247-919f-4806-94c3-1495b37b72e6,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_434c9b5a
+random-id-f08b75b5-8ad9-4685-9959-6e27065180ca,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_0b918943
+random-id-d3266462-118a-4784-a034-dee6cc4a66e6,0.125,0.125,Chiang Mai University,True,2800,2845,generated_id_670671cd
+random-id-7510e5c3-10a3-4cad-810d-cdd8cd82e37a,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_98a3ab7c
+random-id-02b04ce3-90d4-4792-9b09-3cd17ccf5be6,0.1,0.1,Chiang Mai University,True,4280,3520,generated_id_44c8031c
+random-id-69990610-cbb1-44af-b0c9-5ba4b6ddc540,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_2fca346d
+random-id-9b6e2cdc-3916-4547-bbad-02d3bf151cd8,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_3ada92f2
+random-id-5acae944-63ce-432b-ae29-2f4fdfa28a8a,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_69f59c27
+random-id-78ee2b3a-35ab-4e26-91c6-1c31a9341831,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_6b51d431
+random-id-e7430981-68fb-4d8c-b032-2f82e543506e,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_c6f3ac57
+random-id-7c1d2ea0-8ee2-4d90-9d0c-c0b161205a17,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_6e400187
+random-id-6551d5a7-7b0b-491a-8d70-6a54bd1df5f0,0.1,0.1,Chiang Mai University,True,4280,3520,generated_id_e29c9c18
+random-id-6bf1d7da-ca82-4f0d-b89c-da6730fe0fb6,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_785f3ec7
+random-id-aaaa05ee-809d-4d10-ad59-a9b0fd9a3591,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_bbb965ab
+random-id-74558ab4-bc05-40f4-9bdf-72606e4aa5fd,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_29db0c67
+random-id-3a62f3cf-6b61-43b6-b4f7-408ce9528376,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_108c995b
+random-id-b59c474b-dcae-4dd8-9575-5f1df47d54ca,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_25fc0e70
+random-id-c6629e16-6aaa-4242-a1fe-b849a9fbe503,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_48449a14
+random-id-31202790-9bbb-47a2-ba5a-93fabeb03374,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_c75cb66a
+random-id-6abc0a35-01fe-4c25-9907-d8617e137d9e,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_44cb730c
+random-id-86d2feaa-57fd-4d6b-8d5a-22a3722a82e4,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_bdd2d3af
+random-id-bd3f4b95-cf42-4339-b9b3-04d3abab8b01,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_87226162
+random-id-fbf059e9-29bb-440e-a9f6-b91f07cfcc85,0.125,0.125,Chiang Mai University,True,2800,2845,generated_id_4523540f
+random-id-c44cf512-6aa8-4291-880f-808690fc077f,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_49d180ec
+random-id-3242f27b-a829-4d34-8980-51ae78386fd0,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_4b227777
+random-id-2d40fb67-c162-45fb-bc8a-c1b76af691e8,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_8c1f1046
+random-id-4f71e4d8-29f2-403e-8db0-2de61139fc6a,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_7f2253d7
+random-id-474e19e8-ede4-4ade-9fe4-f50e34b55433,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_9f14025a
+random-id-92324a6b-c800-45de-b06c-eb11204d20d5,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_82416496
+random-id-0f846792-b59f-40f6-8e83-dbe3f67c61e3,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_98010bd9
+random-id-bda6073d-69c3-4cda-a255-6ae65de18b46,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_aea92132
+random-id-05a3abf2-defa-469c-b9a6-b398dad60045,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_7902699b
+random-id-f52c67cf-8956-4776-8e89-5cad07330814,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_39fa9ec1
+random-id-90671925-5256-45a9-8685-464f9388909b,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_d029fa3a
+random-id-afec718e-7e5f-440a-a4d9-fefc03d0be51,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_71ee45a3
+random-id-85077fc9-f2e0-4267-8554-c0bbf787a5aa,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_535fa30d
+random-id-8c81075d-f0b3-4ebd-a0ce-d9c0a5edf3c7,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_3d914f93
+random-id-535f88dd-d176-4f1d-93df-1a88e4be8914,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_4a44dc15
+random-id-3f08ea3b-bf1c-4c1d-9e6e-e0e6766aa68a,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_59e19706
+random-id-0c221a06-4339-4af4-ad93-26eb5f5d6b91,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_031b4af5
+random-id-4c7b1cd7-9841-4278-9605-4b00133b8e69,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_76a50887
+random-id-328b6341-c892-444e-94e1-bf88f94b69af,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_eb1e33e8
+random-id-2342e807-e030-4aaf-b7ec-e31d1eaa087f,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_96061e92
+random-id-46034181-b85a-4732-98b8-46806be49199,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_a46e3763
+random-id-bae29f57-0115-4e14-870c-dcb673ce4105,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_0e17daca
+random-id-208e876b-822b-4575-ac79-b2b4c08b7a53,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_d4735e3a
+random-id-46183fb2-6582-451e-9fa6-c41c95238976,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_c2356069
+random-id-9d4f7e2d-5284-4aec-b4e3-28689cc4be35,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_35135aaa
+random-id-fd5e7fac-5650-410c-8062-6ef740de67f0,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_d6d824ab
+random-id-5eb80497-952d-45bb-826d-4386fa8a630f,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_f369cb89
+random-id-a670135a-d3d1-418d-91bf-7dac39646a66,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_c837649c
+random-id-1c85cf87-2907-476f-a3e6-20e4acb4e6ef,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_8b940be7
+random-id-22eda271-a634-4a63-a0a2-c6d5d6de5644,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_ef2d127d
+random-id-1d16c8f9-0bf3-4f9e-a24e-ab2599aae5f2,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_6208ef0f
+random-id-dff47fba-c7b1-4e36-ad0f-ea7cbf413c1a,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_e7f6c011
+random-id-c443df74-24c3-44ff-88c5-7f0c0ae5e1f9,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_4ec9599f
+random-id-6a6d6c87-dc2a-485c-a720-f471574796db,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_4fc82b26
+random-id-32f804ca-a385-4ba8-a611-354904adb67f,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_624b60c5
+random-id-c88cfc77-0fd8-45f4-9186-d1449fa4042a,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_f74efabe
+random-id-f55dda34-ebf8-45bf-84fa-0dd65e21793f,0.1,0.1,Chiang Mai University,True,4280,3520,generated_id_d59eced1
+random-id-bb4ab052-61be-48d3-8ebb-7579880de345,0.1,0.1,Chiang Mai University,True,4280,3520,generated_id_02d20bbd
+random-id-507ea47c-17c4-4b12-926b-bb39b56643bf,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_1da51b8d
+random-id-88d1cac1-796c-4f18-be99-d99943326310,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_9400f1b2
+random-id-d93aaff3-2a73-4986-85ae-38be8a61a92a,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_1a656259
+random-id-24a05703-4423-47ad-9cdf-e6c3a81065ad,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_3fdba35f
+random-id-a89334cb-35eb-466a-8c95-7546c09be0c3,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_e629fa65
+random-id-e90e0b75-95f1-4aa7-a7b1-5fb66b55c8cb,0.125,0.125,Chiang Mai University,True,2543,3058,generated_id_a88a7902
+random-id-5c99a6c5-9f3c-49da-806e-86a6ae763989,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_31489056
+random-id-d3406247-5f43-4123-9d8f-f9748a21b3ca,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_7a61b537
+random-id-92b0a79c-2db6-4d0c-9c66-1f1c2a65975c,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_811786ad
+random-id-b442bc70-21ab-4c46-84aa-1ceb4f0f8710,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_6f4b6612
+random-id-2f802e43-2590-47c3-915b-5b00a034d998,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_2858dcd1
+random-id-b6374d5a-d083-432d-a9b9-f11a0d732806,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_3e1e967e
+random-id-8d5a1fed-114e-4a6d-abbf-b670b6079964,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_e3d6c4d4
+random-id-b560888d-e889-4a57-b35a-a497c484b6bf,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_86e50149
+random-id-3bfbff40-c938-42fa-8435-15539c6e7c10,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_5316ca1c
+random-id-73815487-5402-4504-8d68-ca996056d260,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_b4944c6f
+random-id-dc1ebd83-8b0d-457d-9289-15b3acd3ae7d,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_a68b412c
+random-id-16c25e38-841d-46f9-9229-60b6a9afe158,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_7688b6ef
+random-id-008cc250-8005-4bf4-9000-9c3ffc171424,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_a21855da
+random-id-f83ac8d0-8c96-4486-b518-4c9f96659c30,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_ad573668
+random-id-551fc52a-69ac-4443-a323-80dc5649bac3,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_ff5a1ae0
+random-id-82b58eb2-9d39-4245-b5ab-741a7b92f7ec,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_b7a56873
+random-id-bde4f42a-9dc7-4572-b12a-918c44d9c0a9,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_eb624dbe
+random-id-ad80108b-f5c9-42ef-869f-388e0b41de49,0.1,0.1,Chiang Mai University,True,3520,3520,generated_id_19581e27
+random-id-9f76a1ea-f44e-4bac-ac43-235788c59717,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_41cfc0d1
+random-id-7cefe734-e276-460b-a95a-f7723ad502d9,0.1,0.1,Chiang Mai University,True,3520,4280,generated_id_5f9c4ab0
+random-id-3c51863d-842e-49bf-ab88-3f23f4dce4cb,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-b13b1786-95f5-447a-a162-ddea12bfaf44,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4217,EXP000
+random-id-52ebb852-4377-4b64-92b8-f79f49beeb78,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4138,EXP000
+random-id-b768abf8-5836-4eaa-82d2-0d73b831daf3,0.1,0.1,Newark Beth Israel Medical Center,True,3470,3736,EXP000
+random-id-dc48aea8-82d4-4f9d-bac1-2a168a30a23d,0.1,0.1,Newark Beth Israel Medical Center,True,3496,3439,EXP000
+random-id-ae1cb84e-65cd-42dd-9bfd-c0e1b2a56185,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-bab806b1-32d6-42ce-bc89-9dc024ea6d95,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-cc47f745-fcda-4f67-9441-0bd0792065b6,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3852,EXP000
+random-id-1e163a60-06b8-4dab-8b49-d900ed8cd4d6,0.1,0.1,Newark Beth Israel Medical Center,True,3733,4084,EXP000
+random-id-2caf76ca-910d-4c20-8d94-85f6994406b0,0.1,0.1,Newark Beth Israel Medical Center,True,3176,3893,EXP000
+random-id-1ecdc318-671e-47dc-b00b-d2fa26e319f7,0.1,0.1,Newark Beth Israel Medical Center,True,3010,4234,EXP000
+random-id-64719d3c-45d0-47af-9741-fba476e2f864,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3646,EXP000
+random-id-530b6abd-6d7b-4bc5-adda-d20a8502ea4b,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-e76867d3-0bb0-4436-9da4-3f73092fcec2,0.1,0.1,Newark Beth Israel Medical Center,True,3428,3454,EXP000
+random-id-0624ca82-598b-401b-902d-ae5c38d5d56c,0.1,0.1,Newark Beth Israel Medical Center,True,2871,3360,EXP000
+random-id-f2b62700-4268-4a19-b409-16d6643707d0,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-18e66fcb-d236-44ab-8cb0-8cc406c91c99,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-ef564641-4edc-4fdc-bed0-64ab5ddf4a6a,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-ca74945d-a9fe-45d9-9648-fce1b4273bdc,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-0578330a-21bc-468e-bc68-016fb1b595ec,0.1,0.1,Newark Beth Israel Medical Center,True,3470,3566,EXP000
+random-id-9760991b-834d-4498-9c27-01c878f2fe96,0.1,0.1,Newark Beth Israel Medical Center,True,3120,3487,EXP000
+random-id-8eaaa0c5-9602-465c-acf0-c9825f583e1b,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3963,EXP000
+random-id-a105dfc4-8da4-4f00-a8f1-7ca4c342f7a2,0.1,0.1,Newark Beth Israel Medical Center,True,3488,3625,EXP000
+random-id-1cf89cd9-1cc3-4467-a829-f984392aa31d,0.1,0.1,Newark Beth Israel Medical Center,True,3467,3391,EXP000
+random-id-622849b6-1c2f-48f5-af93-32c67486cfd0,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-eb01cd74-75f0-48f8-bce3-49b3bb34a3b0,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-5b662916-9b08-451e-b7c6-16b91637c97c,0.1,0.1,Newark Beth Israel Medical Center,True,3496,3511,EXP000
+random-id-f58da505-c730-4bd2-9fb3-f1cd38f5ab3d,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-7e1a61a9-30cf-4db1-adb4-66c80cdf14bb,0.1,0.1,Newark Beth Israel Medical Center,True,3443,3773,EXP000
+random-id-3b2f3f19-3675-4ac5-9d6d-a5c1edc92ec0,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3677,EXP000
+random-id-143abe64-7ba1-4854-b4dc-43dc34e9023c,0.1,0.1,Newark Beth Israel Medical Center,True,3600,4171,EXP000
+random-id-80d9eda8-f676-401f-8ab6-1e2c7e024bbd,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-6de3fcbc-a473-4467-a4f5-1479a8fc890a,0.1,0.1,Newark Beth Israel Medical Center,True,3018,4234,EXP000
+random-id-2fd2ff40-5610-41da-8a4a-76eebdda0650,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-7fcff549-d156-4df3-854d-7dbf6a692728,0.1,0.1,Newark Beth Israel Medical Center,True,3941,4110,EXP000
+random-id-bff56dc5-5004-46e9-acea-a536798c56f4,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-75ade4f3-a58a-4bed-8d1c-778444d2a589,0.1,0.1,Newark Beth Israel Medical Center,True,3260,3733,EXP000
+random-id-31584722-91e6-499a-8f1e-77aa9571682d,0.1,0.1,Newark Beth Israel Medical Center,True,3165,3500,EXP000
+random-id-b98af906-91a9-42a7-a0ff-3921fa7f25f1,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3884,EXP000
+random-id-0925a8a5-b9f5-46a5-a942-2ade25a63a16,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-179d751a-d881-49a1-8895-85aaa1df303d,0.1,0.1,Newark Beth Israel Medical Center,True,3496,4234,EXP000
+random-id-8e934c5e-57b4-4bf1-9c84-36daa7b8c218,0.1,0.1,Newark Beth Israel Medical Center,True,4234,3470,EXP000
+random-id-dd2c3da0-ca78-4bd2-b13c-5474bd963824,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-041ef6a8-a7a9-4eaa-88f3-19e8a25f1854,0.1,0.1,Newark Beth Israel Medical Center,True,3236,3828,EXP000
+random-id-99f0a4a2-f337-46ce-b02e-161e0b39fda6,0.1,0.1,Newark Beth Israel Medical Center,True,3941,4110,EXP000
+random-id-51c43739-32f3-447c-a731-e32270a454cb,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-f4a09876-ecd4-4667-b799-b67ece82caab,0.1,0.1,Newark Beth Israel Medical Center,True,4143,4394,EXP000
+random-id-ee722fc5-051e-4432-a700-797ef699e463,0.1,0.1,Newark Beth Israel Medical Center,True,3766,3532,EXP000
+random-id-7c0dbbeb-d477-4dac-bd02-c1d8dcd2b2bf,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-342b5dcf-626f-4fde-99bc-000e2c5812fc,0.1,0.1,Newark Beth Israel Medical Center,True,3048,4247,EXP000
+random-id-fe983f6a-b3b6-433e-8d78-50a271ec360f,0.1,0.1,Newark Beth Israel Medical Center,True,3797,3607,EXP000
+random-id-b5775a33-81ce-4755-9061-b50dee575156,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4121,EXP000
+random-id-f6e1232d-ce96-4b80-a300-484b7838e7aa,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-bab22e5d-4e7b-43c4-83b0-c9ae96c0232e,0.1,0.1,Newark Beth Israel Medical Center,True,3496,4178,EXP000
+random-id-10f6f83b-cdcb-4fa5-93b2-85812bbc2bcc,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-9add6470-c27f-40ea-a6b5-c51706096762,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-67422c8f-2eb5-4054-9e35-bf4ba85ef4be,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-7579f23e-d651-4c7a-9f63-218806616e2a,0.1,0.1,Newark Beth Israel Medical Center,True,3231,4059,EXP000
+random-id-9ff41764-dd12-4d72-ad5a-9e1631b6529a,0.1,0.1,Newark Beth Israel Medical Center,True,4379,4939,EXP000
+random-id-1517933c-2527-49d5-b498-7cc90acf9dd3,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3406,EXP000
+random-id-aa083d45-5462-475d-a665-28993802a752,0.1,0.1,Newark Beth Israel Medical Center,True,2675,4247,EXP000
+random-id-7384e861-ca9e-4f16-82c5-5bc879a1c7f8,0.1,0.1,Newark Beth Israel Medical Center,True,4140,4762,EXP000
+random-id-78365c65-055d-4983-9201-5e31d67f82a2,0.1,0.1,Newark Beth Israel Medical Center,True,3058,3284,EXP000
+random-id-7136698f-0022-40c8-9283-1adc0ff8da78,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-df7f18e3-f210-4b64-a845-41c0626e23da,0.1,0.1,Newark Beth Israel Medical Center,True,4136,4328,EXP000
+random-id-ee3d7717-cc41-47e6-9e3c-a725d15df42a,0.1,0.1,Newark Beth Israel Medical Center,True,3852,3446,EXP000
+random-id-4af8b984-2a78-4b63-ad3c-857a87b4b778,0.1,0.1,Newark Beth Israel Medical Center,True,3496,3693,EXP000
+random-id-210d4358-3968-4565-b915-75392b5f1754,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-a5a804b5-2f17-4cf3-b338-e7bf6e38162b,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-1a281605-a868-45bc-b55a-e33213fc700f,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-ce3a74b3-b69a-422b-ba4a-2a0142f60e26,0.1,0.1,Newark Beth Israel Medical Center,True,2820,3888,EXP000
+random-id-4559cfc1-543d-4543-a63a-e154d34087c7,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-856605ac-3218-4dcf-a0c0-faf1a03d3ac7,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-dc309e24-64d1-4172-9b83-bb94fbca19b8,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-5f2c3f0f-2fda-41f5-aa19-016c3b3ecc29,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-0ed58be2-ade9-4c0b-a4e3-f3fd4e345a7c,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-05a27e04-acaf-496e-bb5f-37b0ca273165,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4247,EXP000
+random-id-e3167683-2263-42f8-96c3-4df949e7c9e5,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-22191169-3c92-48b1-bddb-6ec784a6f3f5,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-4ad9fd24-d423-4da7-9fdb-e82460ad7074,0.1,0.1,Newark Beth Israel Medical Center,True,3140,3265,EXP000
+random-id-3deca584-0300-41dc-979a-3ccd832e86e5,0.1,0.1,Newark Beth Israel Medical Center,True,3903,3874,EXP000
+random-id-3d729581-ae13-4c3d-b3c5-e7462bfdf186,0.1,0.1,Newark Beth Israel Medical Center,True,3160,4260,EXP000
+random-id-d81fbfc7-3cb2-4b06-8254-d657602a8b1a,0.1,0.1,Newark Beth Israel Medical Center,True,3477,3622,EXP000
+random-id-7fa7211f-9d88-46ee-ba94-18d1572b651a,0.1,0.1,Newark Beth Israel Medical Center,True,3496,3762,EXP000
+random-id-72e08af0-5ab4-41a5-bbe5-f9b3154627e8,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3701,EXP000
+random-id-062cc9de-4b4f-4887-91a0-10a5e99f6e90,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-dd107a13-e4ad-40bf-92d1-e4fdd61576f1,0.1,0.1,Newark Beth Israel Medical Center,True,3607,4201,EXP000
+random-id-581bd070-40a5-45c9-8d86-b08d66f14b13,0.1,0.1,Newark Beth Israel Medical Center,True,4081,4510,EXP000
+random-id-653f13ba-608c-4109-8f50-a8baf9107c0c,0.1,0.1,Newark Beth Israel Medical Center,True,3239,3590,EXP000
+random-id-c2c3f355-ae06-4d07-bc81-5092479124c9,0.1,0.1,Newark Beth Israel Medical Center,True,3128,3868,EXP000
+random-id-722a6558-94ce-4d60-a5d7-48c5d4e3b38e,0.1,0.1,Newark Beth Israel Medical Center,True,3247,3701,EXP000
+random-id-24f2c6f7-adb6-429e-9feb-bb8a848c9d9d,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4247,EXP000
+random-id-d5ff7d0f-ebe6-4ebd-be9a-58f380a639b1,0.1,0.1,Newark Beth Israel Medical Center,True,3014,4051,EXP000
+random-id-3b686325-b948-49d5-9a1a-e0fb4c0ddb35,0.1,0.1,Newark Beth Israel Medical Center,True,2866,3352,EXP000
+random-id-f8e16bb2-09c4-49b5-a9c5-ba7db6c62879,0.1,0.1,Newark Beth Israel Medical Center,True,3483,3550,EXP000
+random-id-707c5a57-bdd1-4ea1-99d0-f7ecd23c2154,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-1d9a63d5-51ce-4dd3-8d6a-8461d271a860,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-f5707aa5-94e1-478f-97b3-3d9f315697f9,0.1,0.1,Newark Beth Israel Medical Center,True,4234,3470,EXP000
+random-id-5d7d3daa-70a2-4f31-947b-0b3f2abc203d,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4234,EXP000
+random-id-c99e481f-827b-43c7-aa6b-ef21f8f2527f,0.1,0.1,Newark Beth Israel Medical Center,True,3470,4167,EXP000
