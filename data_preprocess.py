@@ -15,7 +15,7 @@ def get_img_path(path= '/home/ec2-user/efs/MAIDA/MIMIC-981/data/'):
     return image_paths
 
 
-def convert_dcm(image_paths, output_path = 'MAIDA/data', PNG = False):
+def convert_dcm(image_paths, output_path = 'MAIDA/data', PNG = True):
     for n, image in enumerate(image_paths):
         ds = dicom.dcmread(image)
         pixel_array_numpy = ds.pixel_array.astype(float)
@@ -146,11 +146,10 @@ def get_reviewed_anno(ori_ann_file='/home/ec2-user/efs/MAIDA/MIMIC-1105-annotati
     with open(target_dir, 'w') as outfile:
             json.dump(data, outfile)
 
-def enlarge_bbox(root="/home/ec2-user/segmenter/MAIDA/MIMIC_ETT_annotations",
-                 annotation_file='annotations.json',
-                 out_file='annotations_enlarged.json', factor=2):
+def enlarge_bbox(annotation_file='annotations.json',
+                 output_file='annotations_enlarged.json', factor=2):
 
-    f = open(os.path.join(root, annotation_file))
+    f = open(annotation_file)
     data = json.load(f)
     for i, ann in enumerate(data['annotations']):
         if ann['image_id'] == 2946144: # corrupted image
@@ -163,7 +162,7 @@ def enlarge_bbox(root="/home/ec2-user/segmenter/MAIDA/MIMIC_ETT_annotations",
         ann['bbox'][2] = ann['bbox'][2] * factor
         ann['bbox'][3] = ann['bbox'][3] * factor
 
-    with open(os.path.join(root, out_file), 'w') as outfile:
+    with open(output_file, 'w') as outfile:
         json.dump(data, outfile)
 
 def generate_gt_label( # xmid, ymid, w, h
@@ -177,7 +176,7 @@ def generate_gt_label( # xmid, ymid, w, h
     # image to id
     img_to_id = {}
     for img in data['images']:
-        file_name = img['file_name'].replace('.dcm', '.jpg')
+        file_name = img['file_name'].replace('.dcm', '.png')
         img_to_id[file_name] = img['id']
 
     # id to width, height
@@ -205,11 +204,10 @@ def generate_gt_label( # xmid, ymid, w, h
     }
     problem_id = []
     for file_path in os.listdir(os.path.join(root, image_dir)):
-        # print(file_path)
         if file_path not in img_to_id.keys():
             print(f'no {file_path}')
             continue
-        out_file = open(os.path.join(root, out_dir, file_path).replace('.jpg', '.txt'),"w+")
+        out_file = open(os.path.join(root, out_dir, file_path).replace('.png', '.txt'), "w+")
         id = img_to_id[file_path]
         if id not in id_to_ann.keys():
             problem_id.append(id)
@@ -335,7 +333,7 @@ def get_test_anno(anno_file='/home/ec2-user/segmenter/MAIDA/data1000/annotations
     else:
         raise ValueError("No dataset specified.")
     for image in data['images']:
-        image['file_name'] = image['file_name'].replace('.dcm', '.jpg')
+        image['file_name'] = image['file_name'].replace('.dcm', '.png')
         if image['file_name'][:-4] in list(test_info[column]):
             test_images.append(image)
 
@@ -366,7 +364,7 @@ def move_ranzcr_images(src_dir='/home/ec2-user/efs/RANZCR/data',
                 if not os.path.isdir(subdir_path):
                     continue
                 img_path = os.path.join(subdir_path, row['FileName'])
-                img_path += '.jpg'
+                img_path += '.png'
                 if os.path.isfile(img_path):
                     # If the image is in the csv file and meets the criteria, copy it to the new directory
                     if row['Source'] == source and row['Split'] == split:
@@ -383,7 +381,7 @@ def move_mimic_images(src_dir='/home/ec2-user/segmenter/MAIDA/all_images',
     for img_path in os.listdir(src_dir):
         if img_path.replace('.png', '') in target_imgs:
             image = Image.open(os.path.join(src_dir, img_path))
-            img_path = img_path.replace('.png', '.jpg')
+            # img_path = img_path.replace('.png', '.jpg')
             image.save(os.path.join(output_dir, img_path))
 def combine_anno(anno1, anno2, output_anno):
     with open(anno1) as f1:
