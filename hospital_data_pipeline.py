@@ -18,9 +18,9 @@ class DataPipeline:
         self.data_process()
 
     def data_process(self):
-        downsize_images(image_dir=self.input_image_dir,
-                        target_dir=self.output_image_dir,
-                        resized_dim=self.resized_dim)
+        # downsize_images(image_dir=self.input_image_dir,
+        #                 target_dir=self.output_image_dir,
+        #                 resized_dim=self.resized_dim)
 
         downsize_anno(ori_ann_file=self.input_anno_dir,
             output_file=self.downsized_anno_dir,
@@ -29,27 +29,27 @@ class DataPipeline:
         make_bbox_nonzero(anno_dir=self.downsized_anno_dir)
 
         enlarge_bbox(annotation_file=self.downsized_anno_dir,
-                     out_file=self.enlarged_anno_dir, factor=self.enlarge_ratio)
+                     output_file=self.enlarged_anno_dir, factor=self.enlarge_ratio)
 
         create_area(file=self.enlarged_anno_dir)
 
-    def data_split(self, mapping='/n/data1/hms/dbmi/rajpurkar/lab/hospital_data/annotation_image_name_mapping.csv'):
+    def data_split(self, annotation_root, mapping='/n/data1/hms/dbmi/rajpurkar/lab/MAIDA_hospital_data/annotation_image_name_mapping.csv'):
         mapping = pd.read_csv(mapping)
-        for image_name in os.listdir(self.output_data_dir):
-            image = Image.open(os.path.join(self.output_data_dir, image_name))
+        for image_name in os.listdir(self.output_image_dir):
+            image = Image.open(os.path.join(self.output_image_dir, image_name))
 
             image_name = image_name[:-4]
             institution = mapping[mapping['new_name']==image_name]['institution'].values[0]
             institution = institution.replace(' ', '_')
 
-            out_dir = self.root+institution+'/images/'
+            out_dir = annotation_root+institution+'/images/'
             if not os.path.exists(out_dir):
                 os.makedirs(out_dir)
             image.save(os.path.join(out_dir, image_name+'.png'))
 
 
     def anno_split(self, annotation_root,
-                   mapping='/n/data1/hms/dbmi/rajpurkar/lab/hospital_data/annotation_image_name_mapping.csv'):
+                   mapping='/n/data1/hms/dbmi/rajpurkar/lab/MAIDA_hospital_data/annotation_image_name_mapping.csv'):
         mapping = pd.read_csv(mapping)
         f = open(self.enlarged_anno_dir)
         data = json.load(f)
@@ -132,8 +132,8 @@ if __name__ == "__main__":
         input_anno_dir = root + 'MAIDA_hospital_data/annotations.json',
         input_image_dir = root + 'MAIDA_hospital_data/Images')
     pipe.data_process()
-    pipe.data_split()
-    pipe.anno_split()
+    pipe.data_split(annotation_root=root+'ett/hospital_downsized_new/')
+    pipe.anno_split(annotation_root=root+'ett/hospital_downsized_new/')
     # pipe.make_image_brighter(
     #     data_dir='/n/data1/hms/dbmi/rajpurkar/lab/ett/hospital_downsized/Newark_Beth_Israel_Medical_Center/images',
     #     out_dir='/n/data1/hms/dbmi/rajpurkar/lab/ett/hospital_downsized/Newark_Beth_Israel_Medical_Center/images_bright')

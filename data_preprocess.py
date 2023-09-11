@@ -90,6 +90,9 @@ def downsize_anno(ori_ann_file='annotations.json',
         data['images'][i]['width'] = resized_dim
         data['images'][i]['height'] = resized_dim
     # save target.json
+    directory_path = os.path.dirname(output_file)
+    if not os.path.exists(directory_path):
+        os.makedirs(directory_path)
     with open(output_file, 'w+') as outfile:
         json.dump(data, outfile)
 
