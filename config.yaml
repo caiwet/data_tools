@@ -1,0 +1,12 @@
+root: /n/data1/hms/dbmi/rajpurkar/lab/
+output_dir: ett/hospital_downsized_new2
+output_image_dir: images/
+downsized_anno_dir: annotations/hospital_downsized.json
+enlarged_anno_dir: annotations/hospital_downsized_enlarged5.json
+
+input_anno_dir: MAIDA_hospital_data/annotations.json
+input_image_dir: MAIDA_hospital_data/Images
+anno_image_mapping: MAIDA_hospital_data/annotation_image_name_mapping.csv
+
+resized_dim: 1280
+enlarge_ratio: 5
