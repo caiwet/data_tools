@@ -1,0 +1,4 @@
+black==23.9.1 
+numpy==1.24.4
+pandas==2.0.3
+virtualenv==20.7.2
