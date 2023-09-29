@@ -18,7 +18,6 @@ Thumbs.db
 *.ini
 *.cfg
 *.conf
-*.yaml
 *.yml
 
 # Ignore log files
