@@ -47,8 +47,9 @@ def downsize_one_image(image_path, resized_dim):
     # Determine the desired size for the square image
     desired_size = max(image.size)
 
-    # Pad the image to the desired size
-    padded_image = ImageOps.pad(image, (desired_size, desired_size))
+    # Pad the image to the desired size. 
+    # The original image will be centered after padding
+    padded_image = ImageOps.pad(image, (desired_size, desired_size), centering=(0.5, 0.5))
     # resize
     image = padded_image.resize((resized_dim, resized_dim))
 
