@@ -1,7 +1,7 @@
 import pydicom as dicom
 import matplotlib.pylab as plt
 import os
-from PIL import Image
+from PIL import Image, ImageOps
 import torchvision.transforms.functional as F
 import cv2
 import numpy as np
@@ -33,20 +33,21 @@ def convert_dcm(image_paths, output_path = 'MAIDA/data', PNG = True):
 def downsize_one_image(image_path, resized_dim):
     # breakpoint()
     image = Image.open(image_path)
+
+    # Grayscale MinMax Normalization
     img = np.array(image)
-    if img.max() > 255:
-        img = (img/256).astype('uint8')
+    img = (img - img.min()) / (img.max() - img.min()) * 255.0
+    img = img.astype('uint8')
     image = Image.fromarray(img).convert("RGB")
-    w, h = image.size
 
-    # crop
-    if w > h:
-        image = image.crop(((w-h)/2, 0, (w+h)/2, h)) # cut evenly from left and right
-    else:
-        image = image.crop((0, (h-w)*0.2, w, h-(h-w)*0.8)) # cut more from bottom and less from top
+    # Determine the desired size for the square image
+    desired_size = max(image.size)
 
+    # Pad the image to the desired size
+    padded_image = ImageOps.pad(image, (desired_size, desired_size))
     # resize
-    image = image.resize((resized_dim, resized_dim))
+    image = padded_image.resize((resized_dim, resized_dim))
+
     return image
 
 def downsize_images(image_dir='ETTAnnotated', target_dir='downsized',

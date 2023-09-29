@@ -109,7 +109,7 @@ def split_images(data_dir, out_dir, train_ratio, test_ratio, val_ratio):
 
 
 if __name__ == "__main__":
-    data_directory = "/n/data1/hms/dbmi/rajpurkar/lab/ett/hospital_downsized/Chiang_Mai_University"
+    data_directory = "/n/data1/hms/dbmi/rajpurkar/lab/MAIDA_ETT/hospital_downsized/Chiang_Mai_University"
     train_ratio = 0.7
     test_ratio = 0.2
     val_ratio = 0.1

@@ -15,8 +15,6 @@ class DataPipeline:
         self.resized_dim = resized_dim
         self.enlarge_ratio = enlarge_ratio
 
-        self.data_process()
-
     def data_process(self):
         # downsize_images(image_dir=self.input_image_dir,
         #                 target_dir=self.output_image_dir,
@@ -129,10 +127,10 @@ if __name__ == "__main__":
         output_image_dir = root + 'ett/hospital_downsized_new/images/',
         downsized_anno_dir = root + 'ett/hospital_downsized_new/annotations/hospital_downsized.json',
         enlarged_anno_dir = root + 'ett/hospital_downsized_new/annotations/hospital_downsized_enlarged5.json',
-        input_anno_dir = root + 'MAIDA_hospital_data/annotations.json',
+        input_anno_dir = root + 'MAIDA_hospital_data/hospital-annotations.json',
         input_image_dir = root + 'MAIDA_hospital_data/Images')
     pipe.data_process()
-    pipe.data_split(annotation_root=root+'ett/hospital_downsized_new/')
+    # pipe.data_split(annotation_root=root+'ett/hospital_downsized_new/')
     pipe.anno_split(annotation_root=root+'ett/hospital_downsized_new/')
     # pipe.make_image_brighter(
     #     data_dir='/n/data1/hms/dbmi/rajpurkar/lab/ett/hospital_downsized/Newark_Beth_Israel_Medical_Center/images',
